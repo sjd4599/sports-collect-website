@@ -30,7 +30,8 @@
         "feeLabel": "€500M 조항",
         "noteKo": "아틀레티코, 입찰 거절 + SNS 공개 조롱 — '어떤 제안도 검토 안 한다'"
       }
-    ]
+    ],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Argentina_national_football_team_-_2_-_2022_%28Juli%C3%A1n_%C3%81lvarez%29.jpg"
   },
   {
     "id": "diomande",
@@ -162,7 +163,8 @@
         "feeLabel": "약 €60M",
         "noteKo": "모레토: 선수 측 이적 동의 — 인터를 떠난다면 바르셀로나만 수락"
       }
-    ]
+    ],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Norway_Italy_-_June_2025_A_36_%28cropped%29.jpg/500px-Norway_Italy_-_June_2025_A_36_%28cropped%29.jpg"
   },
   {
     "id": "hincapie",
@@ -181,7 +183,8 @@
         "feeLabel": "€52M+10%",
         "noteKo": "로마노: 임대 → 완전 이적 확정, 재판매 수익 10% 포함"
       }
-    ]
+    ],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Piero_Hincapi%C3%A9%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29.jpg/500px-Piero_Hincapi%C3%A9%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29.jpg"
   },
   {
     "id": "ederson",
@@ -233,7 +236,8 @@
         "feeLabel": "완전 이적 요구",
         "noteKo": "첼시는 완전 이적, 바이에른은 임대 형식 검토 — 구조 이견"
       }
-    ]
+    ],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_%28cropped%29.jpg/500px-2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3321_by_Stepro_%28cropped%29.jpg"
   },
   {
     "id": "rashford",
@@ -273,7 +277,8 @@
         "feeLabel": "스왑 거론",
         "noteKo": "팀톡: 맨유가 아스널에 래시포드 제안 — 마르티넬리 스왑 딜 거론 (저신뢰 루머)"
       }
-    ]
+    ],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Marcus_Rashford_in_2023.jpg/500px-Marcus_Rashford_in_2023.jpg"
   },
   {
     "id": "dumfries",
@@ -299,7 +304,8 @@
         "feeLabel": "",
         "noteKo": "로마노: 메디컬 통과, 이적 공식화 — 카르바할 후계자"
       }
-    ]
+    ],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edison_ndreca_inter_egnati_%28cropped_Denzel_Dumfries%29.jpg"
   },
   {
     "id": "chukwuemeka",
