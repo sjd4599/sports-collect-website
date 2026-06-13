@@ -1,0 +1,67 @@
+# 배포용 자동 파이프라인 — 10분마다 수집 → 이미지 backfill → 빌드 → GitHub Pages 배포
+name: Update & Deploy
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # 10분마다 (UTC 기준; 깃허브 부하에 따라 다소 지연될 수 있음)
+  workflow_dispatch: {} # 수동 실행 버튼
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 1) 수집: RSS/Google News → 한국어 요약(Claude API) → og:image → articles.json
+      - name: Collect new articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 없으면 이미지 생성 폴백만 생략됨
+        run: node scripts/collect.mjs --max=40
+
+      # 1-b) 기존 기사 이미지 backfill: imageUrl 없는 항목에 og:image(없으면 Gemini)
+      - name: Backfill missing images
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 없으면 og:image만 채움
+        run: node scripts/backfill-images.mjs --max=200
+
+      # 2) 정적 페이지 재생성
+      - name: Build standalone
+        run: |
+          node scripts/build-standalone.mjs
+          mkdir -p dist
+          cp standalone.html dist/index.html
+          [ -d genimg ] && cp -r genimg dist/genimg || true
+
+      # 3) 데이터 변경분 커밋 (히스토리 보존)
+      - name: Commit data updates
+        run: |
+          git config user.name 'press-matrix-bot'
+          git config user.email 'bot@users.noreply.github.com'
+          git add src/data/articles.json standalone.html
+          [ -d genimg ] && git add genimg || true
+          git diff --cached --quiet || git commit -m 'chore: auto-collect articles'
+          git push
+
+      # 4) GitHub Pages 배포
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

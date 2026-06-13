@@ -1,0 +1,1243 @@
+{
+  "manutd": {
+    "formation": "4-2-3-1",
+    "basis": "25-26 최종전 (5/24 브라이턴전) 기준",
+    "players": [
+      {
+        "name": "Senne Lammens",
+        "pos": "GK",
+        "role": "starter",
+        "value": 20
+      },
+      {
+        "name": "Luke Shaw",
+        "pos": "LB",
+        "role": "starter",
+        "value": 12
+      },
+      {
+        "name": "Lisandro Martínez",
+        "pos": "CB",
+        "role": "starter",
+        "value": 22
+      },
+      {
+        "name": "Harry Maguire",
+        "pos": "CB",
+        "role": "starter",
+        "value": 8
+      },
+      {
+        "name": "Noussair Mazraoui",
+        "pos": "RB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Kobbie Mainoo",
+        "pos": "CM",
+        "role": "starter",
+        "value": 65
+      },
+      {
+        "name": "Mason Mount",
+        "pos": "CM",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Patrick Dorgu",
+        "pos": "LW",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Bruno Fernandes",
+        "pos": "AM",
+        "role": "starter",
+        "value": 35
+      },
+      {
+        "name": "Amad Diallo",
+        "pos": "RW",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "Bryan Mbeumo",
+        "pos": "ST",
+        "role": "starter",
+        "value": 50
+      },
+      {
+        "name": "Benjamin Šeško",
+        "pos": "ST",
+        "role": "bench",
+        "value": 60
+      },
+      {
+        "name": "Matheus Cunha",
+        "pos": "AM",
+        "role": "bench",
+        "value": 55
+      },
+      {
+        "name": "Casemiro",
+        "pos": "CM",
+        "role": "bench",
+        "value": 5.5
+      },
+      {
+        "name": "Altay Bayındır",
+        "pos": "GK",
+        "role": "bench",
+        "value": 8.5
+      },
+      {
+        "name": "Leny Yoro",
+        "pos": "CB",
+        "role": "bench",
+        "value": 45
+      }
+    ]
+  },
+  "liverpool": {
+    "formation": "4-2-3-1",
+    "basis": "25-26 최종전 (5/24 브렌트퍼드전) 기준",
+    "players": [
+      {
+        "name": "Alisson",
+        "pos": "GK",
+        "role": "starter",
+        "value": 17
+      },
+      {
+        "name": "Andrew Robertson",
+        "pos": "LB",
+        "role": "starter",
+        "value": 8
+      },
+      {
+        "name": "Virgil van Dijk",
+        "pos": "CB",
+        "role": "starter",
+        "value": 15
+      },
+      {
+        "name": "Ibrahima Konaté",
+        "pos": "CB",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "Curtis Jones",
+        "pos": "RB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Ryan Gravenberch",
+        "pos": "DM",
+        "role": "starter",
+        "value": 100
+      },
+      {
+        "name": "Alexis Mac Allister",
+        "pos": "CM",
+        "role": "starter",
+        "value": 115
+      },
+      {
+        "name": "Rio Ngumoha",
+        "pos": "LW",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Dominik Szoboszlai",
+        "pos": "AM",
+        "role": "starter",
+        "value": 75
+      },
+      {
+        "name": "Mohamed Salah",
+        "pos": "RW",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "Cody Gakpo",
+        "pos": "ST",
+        "role": "starter",
+        "value": 55
+      },
+      {
+        "name": "Alexander Isak",
+        "pos": "ST",
+        "role": "bench",
+        "value": 85
+      },
+      {
+        "name": "Florian Wirtz",
+        "pos": "AM",
+        "role": "bench",
+        "value": 110
+      },
+      {
+        "name": "Hugo Ekitike",
+        "pos": "ST",
+        "role": "bench",
+        "value": 35
+      },
+      {
+        "name": "Wataru Endō",
+        "pos": "DM",
+        "role": "bench",
+        "value": 8
+      },
+      {
+        "name": "Joe Gomez",
+        "pos": "CB",
+        "role": "bench",
+        "value": 15
+      }
+    ]
+  },
+  "arsenal": {
+    "formation": "4-3-3",
+    "basis": "챔피언스리그 결승 (5/30 PSG전) 기준",
+    "players": [
+      {
+        "name": "David Raya",
+        "pos": "GK",
+        "role": "starter",
+        "value": 35
+      },
+      {
+        "name": "Piero Hincapié",
+        "pos": "LB",
+        "role": "starter",
+        "value": 52
+      },
+      {
+        "name": "Gabriel",
+        "pos": "CB",
+        "role": "starter",
+        "value": 70
+      },
+      {
+        "name": "William Saliba",
+        "pos": "CB",
+        "role": "starter",
+        "value": 90
+      },
+      {
+        "name": "Cristhian Mosquera",
+        "pos": "RB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Declan Rice",
+        "pos": "CM",
+        "role": "starter",
+        "value": 120
+      },
+      {
+        "name": "Myles Lewis-Skelly",
+        "pos": "CM",
+        "role": "starter",
+        "value": 60
+      },
+      {
+        "name": "Martin Ødegaard",
+        "pos": "CM",
+        "role": "starter",
+        "value": 65
+      },
+      {
+        "name": "Leandro Trossard",
+        "pos": "LW",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Kai Havertz",
+        "pos": "ST",
+        "role": "starter",
+        "value": 75
+      },
+      {
+        "name": "Bukayo Saka",
+        "pos": "RW",
+        "role": "starter",
+        "value": 150
+      },
+      {
+        "name": "Jurriën Timber",
+        "pos": "RB",
+        "role": "bench",
+        "value": 55
+      },
+      {
+        "name": "Riccardo Calafiori",
+        "pos": "LB",
+        "role": "bench",
+        "value": 62
+      },
+      {
+        "name": "Mikel Merino",
+        "pos": "CM",
+        "role": "bench",
+        "value": 35
+      },
+      {
+        "name": "Gabriel Martinelli",
+        "pos": "LW",
+        "role": "bench",
+        "value": 55
+      },
+      {
+        "name": "Viktor Gyökeres",
+        "pos": "ST",
+        "role": "bench",
+        "value": 65
+      }
+    ]
+  },
+  "mancity": {
+    "formation": "4-2-3-1",
+    "basis": "25-26 최종전 (5/24 빌라전) 기준 — FA컵 결승은 로테이션 상이",
+    "players": [
+      {
+        "name": "James Trafford",
+        "pos": "GK",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Nathan Aké",
+        "pos": "LB",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Rúben Dias",
+        "pos": "CB",
+        "role": "starter",
+        "value": 50
+      },
+      {
+        "name": "John Stones",
+        "pos": "CB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Rico Lewis",
+        "pos": "RB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Bernardo Silva",
+        "pos": "CM",
+        "role": "starter",
+        "value": 65
+      },
+      {
+        "name": "Nico González",
+        "pos": "DM",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "Savinho",
+        "pos": "LW",
+        "role": "starter",
+        "value": 48
+      },
+      {
+        "name": "Tijjani Reijnders",
+        "pos": "AM",
+        "role": "starter",
+        "value": 70
+      },
+      {
+        "name": "Antoine Semenyo",
+        "pos": "RW",
+        "role": "starter",
+        "value": 55
+      },
+      {
+        "name": "Phil Foden",
+        "pos": "ST",
+        "role": "starter",
+        "value": 70
+      },
+      {
+        "name": "Erling Haaland",
+        "pos": "ST",
+        "role": "bench",
+        "value": 200
+      },
+      {
+        "name": "Rodri",
+        "pos": "DM",
+        "role": "bench",
+        "value": 50
+      },
+      {
+        "name": "Omar Marmoush",
+        "pos": "FW",
+        "role": "bench",
+        "value": 55
+      },
+      {
+        "name": "Jérémy Doku",
+        "pos": "LW",
+        "role": "bench",
+        "value": 55
+      },
+      {
+        "name": "Marc Guéhi",
+        "pos": "CB",
+        "role": "bench",
+        "value": 50
+      }
+    ]
+  },
+  "realmadrid": {
+    "formation": "4-4-2",
+    "basis": "라리가 38R (5/23 빌바오전, 카르바할 고별전) 기준",
+    "players": [
+      {
+        "name": "Thibaut Courtois",
+        "pos": "GK",
+        "role": "starter",
+        "value": 22
+      },
+      {
+        "name": "Álvaro Carreras",
+        "pos": "LB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "David Alaba",
+        "pos": "CB",
+        "role": "starter",
+        "value": 8
+      },
+      {
+        "name": "Raúl Asencio",
+        "pos": "CB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Dani Carvajal",
+        "pos": "RB",
+        "role": "starter",
+        "value": 8
+      },
+      {
+        "name": "Franco Mastantuono",
+        "pos": "LM",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "Jude Bellingham",
+        "pos": "CM",
+        "role": "starter",
+        "value": 180
+      },
+      {
+        "name": "Federico Valverde",
+        "pos": "CM",
+        "role": "starter",
+        "value": 120
+      },
+      {
+        "name": "Eduardo Camavinga",
+        "pos": "RM",
+        "role": "starter",
+        "value": 70
+      },
+      {
+        "name": "Kylian Mbappé",
+        "pos": "ST",
+        "role": "starter",
+        "value": 180
+      },
+      {
+        "name": "Gonzalo García",
+        "pos": "ST",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Vinícius Júnior",
+        "pos": "LW",
+        "role": "bench",
+        "value": 170
+      },
+      {
+        "name": "Éder Militão",
+        "pos": "CB",
+        "role": "bench",
+        "value": 30
+      },
+      {
+        "name": "Dean Huijsen",
+        "pos": "CB",
+        "role": "bench",
+        "value": 60
+      },
+      {
+        "name": "Brahim Díaz",
+        "pos": "AM",
+        "role": "bench",
+        "value": 35
+      },
+      {
+        "name": "Antonio Rüdiger",
+        "pos": "CB",
+        "role": "bench",
+        "value": 20
+      }
+    ]
+  },
+  "barcelona": {
+    "formation": "4-2-3-1",
+    "basis": "라리가 38R (5/23 발렌시아전) 기준 — 우승 확정 후 일부 로테이션",
+    "players": [
+      {
+        "name": "Wojciech Szczęsny",
+        "pos": "GK",
+        "role": "starter",
+        "value": 3
+      },
+      {
+        "name": "Alejandro Balde",
+        "pos": "LB",
+        "role": "starter",
+        "value": 50
+      },
+      {
+        "name": "Gerard Martín",
+        "pos": "CB",
+        "role": "starter",
+        "value": 15
+      },
+      {
+        "name": "Ronald Araújo",
+        "pos": "CB",
+        "role": "starter",
+        "value": 55
+      },
+      {
+        "name": "Eric García",
+        "pos": "RB",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Marc Bernal",
+        "pos": "DM",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Gavi",
+        "pos": "CM",
+        "role": "starter",
+        "value": 90
+      },
+      {
+        "name": "Marcus Rashford",
+        "pos": "LW",
+        "role": "starter",
+        "value": 55
+      },
+      {
+        "name": "Dani Olmo",
+        "pos": "AM",
+        "role": "starter",
+        "value": 60
+      },
+      {
+        "name": "Ferran Torres",
+        "pos": "RW",
+        "role": "starter",
+        "value": 35
+      },
+      {
+        "name": "Robert Lewandowski",
+        "pos": "ST",
+        "role": "starter",
+        "value": 15
+      },
+      {
+        "name": "Lamine Yamal",
+        "pos": "RW",
+        "role": "bench",
+        "value": 200
+      },
+      {
+        "name": "Pedri",
+        "pos": "CM",
+        "role": "bench",
+        "value": 140
+      },
+      {
+        "name": "Raphinha",
+        "pos": "LW",
+        "role": "bench",
+        "value": 90
+      },
+      {
+        "name": "João Cancelo",
+        "pos": "RB",
+        "role": "bench",
+        "value": 25
+      },
+      {
+        "name": "Iñigo Martínez",
+        "pos": "CB",
+        "role": "bench",
+        "value": 10
+      }
+    ]
+  },
+  "bayern": {
+    "formation": "4-2-3-1",
+    "basis": "분데스리가 34R (5/16 쾰른전) 기준",
+    "players": [
+      {
+        "name": "Manuel Neuer",
+        "pos": "GK",
+        "role": "starter",
+        "value": 4
+      },
+      {
+        "name": "Tom Bischof",
+        "pos": "LB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Jonathan Tah",
+        "pos": "CB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Dayot Upamecano",
+        "pos": "CB",
+        "role": "starter",
+        "value": 70
+      },
+      {
+        "name": "Konrad Laimer",
+        "pos": "RB",
+        "role": "starter",
+        "value": 22
+      },
+      {
+        "name": "Joshua Kimmich",
+        "pos": "DM",
+        "role": "starter",
+        "value": 50
+      },
+      {
+        "name": "Leon Goretzka",
+        "pos": "CM",
+        "role": "starter",
+        "value": 18
+      },
+      {
+        "name": "Luis Díaz",
+        "pos": "LW",
+        "role": "starter",
+        "value": 60
+      },
+      {
+        "name": "Jamal Musiala",
+        "pos": "AM",
+        "role": "starter",
+        "value": 120
+      },
+      {
+        "name": "Lennart Karl",
+        "pos": "RW",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Harry Kane",
+        "pos": "ST",
+        "role": "starter",
+        "value": 100
+      },
+      {
+        "name": "Michael Olise",
+        "pos": "RW",
+        "role": "bench",
+        "value": 140
+      },
+      {
+        "name": "Kim Min-jae",
+        "pos": "CB",
+        "role": "bench",
+        "value": 25,
+        "nameKo": "김민재"
+      },
+      {
+        "name": "Aleksandar Pavlović",
+        "pos": "CM",
+        "role": "bench",
+        "value": 45
+      },
+      {
+        "name": "Nicolas Jackson",
+        "pos": "ST",
+        "role": "bench",
+        "value": 40
+      },
+      {
+        "name": "Hiroki Ito",
+        "pos": "CB",
+        "role": "bench",
+        "value": 18
+      }
+    ]
+  },
+  "inter": {
+    "formation": "3-5-2",
+    "basis": "세리에A 38R (5/23 볼로냐전) 기준 — 일부 로테이션",
+    "players": [
+      {
+        "name": "Josep Martínez",
+        "pos": "GK",
+        "role": "starter",
+        "value": 15
+      },
+      {
+        "name": "Carlos Augusto",
+        "pos": "CB",
+        "role": "starter",
+        "value": 18
+      },
+      {
+        "name": "Stefan de Vrij",
+        "pos": "CB",
+        "role": "starter",
+        "value": 8
+      },
+      {
+        "name": "Yann Bisseck",
+        "pos": "CB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Federico Dimarco",
+        "pos": "LWB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Petar Sučić",
+        "pos": "CM",
+        "role": "starter",
+        "value": 20
+      },
+      {
+        "name": "Piotr Zieliński",
+        "pos": "CM",
+        "role": "starter",
+        "value": 10
+      },
+      {
+        "name": "Nicolò Barella",
+        "pos": "CM",
+        "role": "starter",
+        "value": 80
+      },
+      {
+        "name": "Andy Diouf",
+        "pos": "RWB",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Francesco Pio Esposito",
+        "pos": "ST",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Lautaro Martínez",
+        "pos": "ST",
+        "role": "starter",
+        "value": 100
+      },
+      {
+        "name": "Alessandro Bastoni",
+        "pos": "CB",
+        "role": "bench",
+        "value": 74
+      },
+      {
+        "name": "Henrikh Mkhitaryan",
+        "pos": "CM",
+        "role": "bench",
+        "value": 6
+      },
+      {
+        "name": "Yann Sommer",
+        "pos": "GK",
+        "role": "bench",
+        "value": 4
+      },
+      {
+        "name": "Matteo Darmian",
+        "pos": "RB",
+        "role": "bench",
+        "value": 4
+      },
+      {
+        "name": "Luis Henrique",
+        "pos": "RW",
+        "role": "bench",
+        "value": 25
+      }
+    ]
+  },
+  "kor": {
+    "formation": "3-4-3",
+    "basis": "월드컵 조별리그 1차전 (6/11 체코전 2-1 승) 기준",
+    "players": [
+      {
+        "name": "Kim Seung-gyu",
+        "pos": "GK",
+        "role": "starter",
+        "value": 1.5,
+        "nameKo": "김승규"
+      },
+      {
+        "name": "Kim Min-jae",
+        "pos": "CB",
+        "role": "starter",
+        "value": 25,
+        "nameKo": "김민재"
+      },
+      {
+        "name": "Lee Han-beom",
+        "pos": "CB",
+        "role": "starter",
+        "value": 3,
+        "nameKo": "이한범"
+      },
+      {
+        "name": "Lee Ki-hyuk",
+        "pos": "CB",
+        "role": "starter",
+        "value": 1.5,
+        "nameKo": "이기혁"
+      },
+      {
+        "name": "Paik Seung-ho",
+        "pos": "LWB",
+        "role": "starter",
+        "value": 2.5,
+        "nameKo": "백승호"
+      },
+      {
+        "name": "Lee Tae-seok",
+        "pos": "CM",
+        "role": "starter",
+        "value": 2,
+        "nameKo": "이태석"
+      },
+      {
+        "name": "Hwang In-beom",
+        "pos": "CM",
+        "role": "starter",
+        "value": 5,
+        "nameKo": "황인범"
+      },
+      {
+        "name": "Seol Young-woo",
+        "pos": "RWB",
+        "role": "starter",
+        "value": 4,
+        "nameKo": "설영우"
+      },
+      {
+        "name": "Son Heung-min",
+        "pos": "LW",
+        "role": "starter",
+        "value": 15,
+        "nameKo": "손흥민"
+      },
+      {
+        "name": "Lee Jae-sung",
+        "pos": "ST",
+        "role": "starter",
+        "value": 3,
+        "nameKo": "이재성"
+      },
+      {
+        "name": "Lee Kang-in",
+        "pos": "RW",
+        "role": "starter",
+        "value": 28,
+        "nameKo": "이강인"
+      },
+      {
+        "name": "Oh Hyeon-gyu",
+        "pos": "ST",
+        "role": "bench",
+        "value": 8,
+        "nameKo": "오현규"
+      },
+      {
+        "name": "Cho Gue-sung",
+        "pos": "ST",
+        "role": "bench",
+        "value": 5,
+        "nameKo": "조규성"
+      },
+      {
+        "name": "Lee Dong-gyeong",
+        "pos": "AM",
+        "role": "bench",
+        "value": 3,
+        "nameKo": "이동경"
+      },
+      {
+        "name": "Hwang Hee-chan",
+        "pos": "FW",
+        "role": "bench",
+        "value": 8,
+        "nameKo": "황희찬"
+      },
+      {
+        "name": "Yang Min-hyeok",
+        "pos": "RW",
+        "role": "bench",
+        "value": 15,
+        "nameKo": "양민혁"
+      }
+    ]
+  },
+  "arg": {
+    "formation": "4-3-3",
+    "basis": "6/9 아이슬란드 평가전 기준 (주축 다수 벤치 스타트)",
+    "players": [
+      {
+        "name": "Gerónimo Rulli",
+        "pos": "GK",
+        "role": "starter",
+        "value": 5
+      },
+      {
+        "name": "Agustín Giay",
+        "pos": "LB",
+        "role": "starter",
+        "value": 10
+      },
+      {
+        "name": "Nicolás Otamendi",
+        "pos": "CB",
+        "role": "starter",
+        "value": 4
+      },
+      {
+        "name": "Lisandro Martínez",
+        "pos": "CB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Facundo Medina",
+        "pos": "RB",
+        "role": "starter",
+        "value": 18
+      },
+      {
+        "name": "Giuliano Simeone",
+        "pos": "CM",
+        "role": "starter",
+        "value": 35
+      },
+      {
+        "name": "Exequiel Palacios",
+        "pos": "CM",
+        "role": "starter",
+        "value": 28
+      },
+      {
+        "name": "Giovani Lo Celso",
+        "pos": "CM",
+        "role": "starter",
+        "value": 18
+      },
+      {
+        "name": "Valentín Barco",
+        "pos": "LW",
+        "role": "starter",
+        "value": 15
+      },
+      {
+        "name": "Nico Paz",
+        "pos": "ST",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "José Manuel López",
+        "pos": "RW",
+        "role": "starter",
+        "value": 22
+      },
+      {
+        "name": "Lionel Messi",
+        "pos": "RW",
+        "role": "bench",
+        "value": 12
+      },
+      {
+        "name": "Julián Álvarez",
+        "pos": "ST",
+        "role": "bench",
+        "value": 150
+      },
+      {
+        "name": "Emiliano Martínez",
+        "pos": "GK",
+        "role": "bench",
+        "value": 15
+      },
+      {
+        "name": "Thiago Almada",
+        "pos": "AM",
+        "role": "bench",
+        "value": 30
+      },
+      {
+        "name": "Cristian Romero",
+        "pos": "CB",
+        "role": "bench",
+        "value": 45
+      }
+    ]
+  },
+  "fra": {
+    "formation": "4-2-3-1",
+    "basis": "6/8 북아일랜드 평가전 기준 (올리세 해트트릭)",
+    "players": [
+      {
+        "name": "Mike Maignan",
+        "pos": "GK",
+        "role": "starter",
+        "value": 20
+      },
+      {
+        "name": "Theo Hernandez",
+        "pos": "LB",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "Dayot Upamecano",
+        "pos": "CB",
+        "role": "starter",
+        "value": 70
+      },
+      {
+        "name": "William Saliba",
+        "pos": "CB",
+        "role": "starter",
+        "value": 100
+      },
+      {
+        "name": "Jules Koundé",
+        "pos": "RB",
+        "role": "starter",
+        "value": 60
+      },
+      {
+        "name": "Aurélien Tchouaméni",
+        "pos": "DM",
+        "role": "starter",
+        "value": 80
+      },
+      {
+        "name": "Adrien Rabiot",
+        "pos": "CM",
+        "role": "starter",
+        "value": 25
+      },
+      {
+        "name": "Désiré Doué",
+        "pos": "LW",
+        "role": "starter",
+        "value": 90
+      },
+      {
+        "name": "Michael Olise",
+        "pos": "AM",
+        "role": "starter",
+        "value": 150
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "pos": "RW",
+        "role": "starter",
+        "value": 90
+      },
+      {
+        "name": "Kylian Mbappé",
+        "pos": "ST",
+        "role": "starter",
+        "value": 180
+      },
+      {
+        "name": "Rayan Cherki",
+        "pos": "AM",
+        "role": "bench",
+        "value": 65
+      },
+      {
+        "name": "Bradley Barcola",
+        "pos": "LW",
+        "role": "bench",
+        "value": 70
+      },
+      {
+        "name": "Eduardo Camavinga",
+        "pos": "CM",
+        "role": "bench",
+        "value": 70
+      },
+      {
+        "name": "Antoine Griezmann",
+        "pos": "FW",
+        "role": "bench",
+        "value": 15
+      },
+      {
+        "name": "Benjamin Pavard",
+        "pos": "CB",
+        "role": "bench",
+        "value": 25
+      }
+    ]
+  },
+  "eng": {
+    "formation": "4-2-3-1",
+    "basis": "6/10 코스타리카 평가전 기준",
+    "players": [
+      {
+        "name": "Jordan Pickford",
+        "pos": "GK",
+        "role": "starter",
+        "value": 20
+      },
+      {
+        "name": "Nico O'Reilly",
+        "pos": "LB",
+        "role": "starter",
+        "value": 45
+      },
+      {
+        "name": "John Stones",
+        "pos": "CB",
+        "role": "starter",
+        "value": 30
+      },
+      {
+        "name": "Ezri Konsa",
+        "pos": "CB",
+        "role": "starter",
+        "value": 35
+      },
+      {
+        "name": "Reece James",
+        "pos": "RB",
+        "role": "starter",
+        "value": 40
+      },
+      {
+        "name": "Elliot Anderson",
+        "pos": "CM",
+        "role": "starter",
+        "value": 65
+      },
+      {
+        "name": "Declan Rice",
+        "pos": "DM",
+        "role": "starter",
+        "value": 120
+      },
+      {
+        "name": "Anthony Gordon",
+        "pos": "LW",
+        "role": "starter",
+        "value": 80
+      },
+      {
+        "name": "Jude Bellingham",
+        "pos": "AM",
+        "role": "starter",
+        "value": 130
+      },
+      {
+        "name": "Noni Madueke",
+        "pos": "RW",
+        "role": "starter",
+        "value": 60
+      },
+      {
+        "name": "Harry Kane",
+        "pos": "ST",
+        "role": "starter",
+        "value": 107
+      },
+      {
+        "name": "Bukayo Saka",
+        "pos": "RW",
+        "role": "bench",
+        "value": 120
+      },
+      {
+        "name": "Cole Palmer",
+        "pos": "AM",
+        "role": "bench",
+        "value": 130
+      },
+      {
+        "name": "Ollie Watkins",
+        "pos": "ST",
+        "role": "bench",
+        "value": 40
+      },
+      {
+        "name": "Marcus Rashford",
+        "pos": "FW",
+        "role": "bench",
+        "value": 55
+      },
+      {
+        "name": "Marc Guéhi",
+        "pos": "CB",
+        "role": "bench",
+        "value": 50
+      }
+    ]
+  }
+}

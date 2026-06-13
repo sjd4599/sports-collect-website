@@ -1,0 +1,150 @@
+{
+  "_note": "2025-26 시즌 기준 샘플 데이터. club id는 clubs.js와 매칭(로고 표시). 추후 자동 수집으로 교체 가능.",
+  "season": "2025-26",
+  "epl": {
+    "table": [
+      { "club": "arsenal", "p": 38, "w": 27, "d": 7, "l": 4, "gd": 58, "pts": 88 },
+      { "club": "liverpool", "p": 38, "w": 25, "d": 8, "l": 5, "gd": 52, "pts": 83 },
+      { "club": "mancity", "p": 38, "w": 24, "d": 8, "l": 6, "gd": 49, "pts": 80 },
+      { "club": "chelsea", "p": 38, "w": 21, "d": 9, "l": 8, "gd": 28, "pts": 72 },
+      { "club": "newcastle", "p": 38, "w": 20, "d": 8, "l": 10, "gd": 22, "pts": 68 },
+      { "club": "astonvilla", "p": 38, "w": 19, "d": 9, "l": 10, "gd": 18, "pts": 66 },
+      { "club": "manutd", "p": 38, "w": 18, "d": 9, "l": 11, "gd": 12, "pts": 63 },
+      { "club": "tottenham", "p": 38, "w": 18, "d": 7, "l": 13, "gd": 9, "pts": 61 },
+      { "club": "brighton", "p": 38, "w": 16, "d": 9, "l": 13, "gd": 6, "pts": 57 },
+      { "club": "westham", "p": 38, "w": 15, "d": 9, "l": 14, "gd": -2, "pts": 54 },
+      { "club": "crystalpalace", "p": 38, "w": 14, "d": 10, "l": 14, "gd": -1, "pts": 52 },
+      { "club": "fulham", "p": 38, "w": 13, "d": 11, "l": 14, "gd": -5, "pts": 50 },
+      { "club": "brentford", "p": 38, "w": 13, "d": 9, "l": 16, "gd": -6, "pts": 48 },
+      { "club": "everton", "p": 38, "w": 12, "d": 11, "l": 15, "gd": -8, "pts": 47 },
+      { "club": "wolves", "p": 38, "w": 11, "d": 11, "l": 16, "gd": -12, "pts": 44 },
+      { "club": "forest", "p": 38, "w": 11, "d": 8, "l": 19, "gd": -16, "pts": 41 },
+      { "club": "bournemouth", "p": 38, "w": 10, "d": 10, "l": 18, "gd": -18, "pts": 40 },
+      { "club": "leeds", "p": 38, "w": 9, "d": 9, "l": 20, "gd": -22, "pts": 36 },
+      { "club": "burnley", "p": 38, "w": 7, "d": 11, "l": 20, "gd": -30, "pts": 32 },
+      { "club": "sunderland", "p": 38, "w": 6, "d": 10, "l": 22, "gd": -38, "pts": 28 }
+    ],
+    "scorers": [
+      { "name": "Erling Haaland", "club": "mancity", "g": 27, "a": 5 },
+      { "name": "Mohamed Salah", "club": "liverpool", "g": 24, "a": 13 },
+      { "name": "Alexander Isak", "club": "newcastle", "g": 22, "a": 6 },
+      { "name": "Bukayo Saka", "club": "arsenal", "g": 18, "a": 12 },
+      { "name": "Cole Palmer", "club": "chelsea", "g": 18, "a": 9 },
+      { "name": "Ollie Watkins", "club": "astonvilla", "g": 17, "a": 5 }
+    ],
+    "records": [
+      { "label": "최다 득점", "value": "91골", "club": "arsenal" },
+      { "label": "최소 실점", "value": "31골", "club": "liverpool" },
+      { "label": "최다 도움", "value": "13 · 살라", "club": "liverpool" }
+    ]
+  },
+  "laliga": {
+    "table": [
+      { "club": "realmadrid", "p": 38, "w": 28, "d": 6, "l": 4, "gd": 60, "pts": 90 },
+      { "club": "barcelona", "p": 38, "w": 27, "d": 6, "l": 5, "gd": 58, "pts": 87 },
+      { "club": "atletico", "p": 38, "w": 23, "d": 8, "l": 7, "gd": 30, "pts": 77 },
+      { "club": "athletic", "p": 38, "w": 19, "d": 10, "l": 9, "gd": 16, "pts": 67 },
+      { "club": "villarreal", "p": 38, "w": 19, "d": 8, "l": 11, "gd": 14, "pts": 65 },
+      { "club": "betis", "p": 38, "w": 17, "d": 11, "l": 10, "gd": 10, "pts": 62 },
+      { "club": "realsociedad", "p": 38, "w": 16, "d": 10, "l": 12, "gd": 5, "pts": 58 },
+      { "club": "sevilla", "p": 38, "w": 15, "d": 10, "l": 13, "gd": 2, "pts": 55 },
+      { "club": "girona", "p": 38, "w": 15, "d": 8, "l": 15, "gd": 0, "pts": 53 },
+      { "club": "celta", "p": 38, "w": 14, "d": 10, "l": 14, "gd": -3, "pts": 52 },
+      { "club": "rayo", "p": 38, "w": 13, "d": 11, "l": 14, "gd": -4, "pts": 50 },
+      { "club": "mallorca", "p": 38, "w": 13, "d": 9, "l": 16, "gd": -6, "pts": 48 },
+      { "club": "osasuna", "p": 38, "w": 12, "d": 10, "l": 16, "gd": -8, "pts": 46 },
+      { "club": "getafe", "p": 38, "w": 11, "d": 12, "l": 15, "gd": -7, "pts": 45 },
+      { "club": "valencia", "p": 38, "w": 11, "d": 10, "l": 17, "gd": -10, "pts": 43 },
+      { "club": "espanyol", "p": 38, "w": 10, "d": 11, "l": 17, "gd": -13, "pts": 41 },
+      { "club": "alaves", "p": 38, "w": 10, "d": 9, "l": 19, "gd": -15, "pts": 39 },
+      { "club": "levante", "p": 38, "w": 8, "d": 10, "l": 20, "gd": -22, "pts": 34 },
+      { "club": "elche", "p": 38, "w": 7, "d": 11, "l": 20, "gd": -25, "pts": 32 },
+      { "club": "oviedo", "p": 38, "w": 6, "d": 9, "l": 23, "gd": -34, "pts": 27 }
+    ],
+    "scorers": [
+      { "name": "Kylian Mbappé", "club": "realmadrid", "g": 28, "a": 8 },
+      { "name": "Robert Lewandowski", "club": "barcelona", "g": 23, "a": 4 },
+      { "name": "Julián Álvarez", "club": "atletico", "g": 19, "a": 6 },
+      { "name": "Lamine Yamal", "club": "barcelona", "g": 16, "a": 15 },
+      { "name": "Vinícius Júnior", "club": "realmadrid", "g": 15, "a": 12 },
+      { "name": "Nico Williams", "club": "athletic", "g": 14, "a": 11 }
+    ],
+    "records": [
+      { "label": "최다 득점", "value": "94골", "club": "realmadrid" },
+      { "label": "최소 실점", "value": "28골", "club": "atletico" },
+      { "label": "최다 도움", "value": "15 · 야말", "club": "barcelona" }
+    ]
+  },
+  "bundesliga": {
+    "table": [
+      { "club": "bayern", "p": 34, "w": 26, "d": 5, "l": 3, "gd": 65, "pts": 83 },
+      { "club": "leverkusen", "p": 34, "w": 22, "d": 7, "l": 5, "gd": 38, "pts": 73 },
+      { "club": "dortmund", "p": 34, "w": 20, "d": 8, "l": 6, "gd": 30, "pts": 68 },
+      { "club": "leipzig", "p": 34, "w": 19, "d": 7, "l": 8, "gd": 24, "pts": 64 },
+      { "club": "frankfurt", "p": 34, "w": 17, "d": 9, "l": 8, "gd": 18, "pts": 60 },
+      { "club": "stuttgart", "p": 34, "w": 16, "d": 8, "l": 10, "gd": 12, "pts": 56 },
+      { "club": "freiburg", "p": 34, "w": 14, "d": 10, "l": 10, "gd": 6, "pts": 52 },
+      { "club": "bremen", "p": 34, "w": 13, "d": 9, "l": 12, "gd": 2, "pts": 48 },
+      { "club": "wolfsburg", "p": 34, "w": 13, "d": 7, "l": 14, "gd": 2, "pts": 46 },
+      { "club": "gladbach", "p": 34, "w": 12, "d": 8, "l": 14, "gd": -4, "pts": 44 },
+      { "club": "mainz", "p": 34, "w": 11, "d": 9, "l": 14, "gd": -6, "pts": 42 },
+      { "club": "hoffenheim", "p": 34, "w": 11, "d": 7, "l": 16, "gd": -8, "pts": 40 },
+      { "club": "koln", "p": 34, "w": 10, "d": 8, "l": 16, "gd": -10, "pts": 38 },
+      { "club": "unionberlin", "p": 34, "w": 9, "d": 9, "l": 16, "gd": -12, "pts": 36 },
+      { "club": "augsburg", "p": 34, "w": 9, "d": 7, "l": 18, "gd": -16, "pts": 34 },
+      { "club": "hamburg", "p": 34, "w": 8, "d": 8, "l": 18, "gd": -20, "pts": 32 },
+      { "club": "stpauli", "p": 34, "w": 7, "d": 9, "l": 18, "gd": -22, "pts": 30 },
+      { "club": "heidenheim", "p": 34, "w": 6, "d": 8, "l": 20, "gd": -28, "pts": 26 }
+    ],
+    "scorers": [
+      { "name": "Harry Kane", "club": "bayern", "g": 30, "a": 9 },
+      { "name": "Serhou Guirassy", "club": "dortmund", "g": 21, "a": 5 },
+      { "name": "Patrik Schick", "club": "leverkusen", "g": 19, "a": 4 },
+      { "name": "Loïs Openda", "club": "leipzig", "g": 16, "a": 7 },
+      { "name": "Deniz Undav", "club": "stuttgart", "g": 15, "a": 8 },
+      { "name": "Omar Marmoush", "club": "frankfurt", "g": 14, "a": 10 }
+    ],
+    "records": [
+      { "label": "최다 득점", "value": "88골", "club": "bayern" },
+      { "label": "최소 실점", "value": "23골", "club": "bayern" },
+      { "label": "최다 도움", "value": "10 · 마르무시", "club": "frankfurt" }
+    ]
+  },
+  "seriea": {
+    "table": [
+      { "club": "inter", "p": 38, "w": 25, "d": 8, "l": 5, "gd": 48, "pts": 83 },
+      { "club": "napoli", "p": 38, "w": 24, "d": 8, "l": 6, "gd": 40, "pts": 80 },
+      { "club": "juventus", "p": 38, "w": 22, "d": 9, "l": 7, "gd": 30, "pts": 75 },
+      { "club": "milan", "p": 38, "w": 21, "d": 8, "l": 9, "gd": 24, "pts": 71 },
+      { "club": "atalanta", "p": 38, "w": 19, "d": 10, "l": 9, "gd": 22, "pts": 67 },
+      { "club": "roma", "p": 38, "w": 18, "d": 10, "l": 10, "gd": 16, "pts": 64 },
+      { "club": "lazio", "p": 38, "w": 17, "d": 9, "l": 12, "gd": 8, "pts": 60 },
+      { "club": "bologna", "p": 38, "w": 15, "d": 11, "l": 12, "gd": 6, "pts": 56 },
+      { "club": "fiorentina", "p": 38, "w": 15, "d": 9, "l": 14, "gd": 4, "pts": 54 },
+      { "club": "torino", "p": 38, "w": 14, "d": 10, "l": 14, "gd": 0, "pts": 52 },
+      { "club": "como", "p": 38, "w": 13, "d": 11, "l": 14, "gd": -2, "pts": 50 },
+      { "club": "udinese", "p": 38, "w": 13, "d": 8, "l": 17, "gd": -5, "pts": 47 },
+      { "club": "genoa", "p": 38, "w": 12, "d": 9, "l": 17, "gd": -7, "pts": 45 },
+      { "club": "cagliari", "p": 38, "w": 11, "d": 10, "l": 17, "gd": -9, "pts": 43 },
+      { "club": "parma", "p": 38, "w": 10, "d": 11, "l": 17, "gd": -11, "pts": 41 },
+      { "club": "sassuolo", "p": 38, "w": 10, "d": 8, "l": 20, "gd": -15, "pts": 38 },
+      { "club": "lecce", "p": 38, "w": 9, "d": 9, "l": 20, "gd": -18, "pts": 36 },
+      { "club": "verona", "p": 38, "w": 8, "d": 10, "l": 20, "gd": -22, "pts": 34 },
+      { "club": "pisa", "p": 38, "w": 7, "d": 9, "l": 22, "gd": -28, "pts": 30 },
+      { "club": "cremonese", "p": 38, "w": 6, "d": 8, "l": 24, "gd": -34, "pts": 26 }
+    ],
+    "scorers": [
+      { "name": "Lautaro Martínez", "club": "inter", "g": 24, "a": 7 },
+      { "name": "Mateo Retegui", "club": "atalanta", "g": 22, "a": 5 },
+      { "name": "Romelu Lukaku", "club": "napoli", "g": 18, "a": 6 },
+      { "name": "Dušan Vlahović", "club": "juventus", "g": 17, "a": 4 },
+      { "name": "Rafael Leão", "club": "milan", "g": 14, "a": 12 },
+      { "name": "Marcus Thuram", "club": "inter", "g": 13, "a": 9 }
+    ],
+    "records": [
+      { "label": "최다 득점", "value": "78골", "club": "inter" },
+      { "label": "최소 실점", "value": "30골", "club": "inter" },
+      { "label": "최다 도움", "value": "12 · 레앙", "club": "milan" }
+    ]
+  }
+}

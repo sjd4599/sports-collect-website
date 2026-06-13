@@ -1,0 +1,921 @@
+[
+  {
+    "id": "alvarez",
+    "name": "Julián Álvarez",
+    "pos": "ST",
+    "fromLabel": "Atlético Madrid",
+    "toLabel": "Barcelona / Real Madrid",
+    "status": "rumour",
+    "priceLabel": "€150M 거절 — 조항 €500M",
+    "value": 150,
+    "events": [
+      {
+        "date": "2026-06-10",
+        "clubLabel": "Barcelona",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "모레토: 알바레스의 1순위는 여전히 바르셀로나"
+      },
+      {
+        "date": "2026-06-10",
+        "clubLabel": "Real Madrid",
+        "type": "bid",
+        "feeLabel": "€150M",
+        "noteKo": "레알, '갈락티코' 공약 이행으로 공식 입찰 발표"
+      },
+      {
+        "date": "2026-06-11",
+        "clubLabel": "Atlético",
+        "type": "demand",
+        "feeLabel": "€500M 조항",
+        "noteKo": "아틀레티코, 입찰 거절 + SNS 공개 조롱 — '어떤 제안도 검토 안 한다'"
+      }
+    ]
+  },
+  {
+    "id": "diomande",
+    "name": "Yan Diomande",
+    "pos": "RW",
+    "fromLabel": "RB Leipzig",
+    "toLabel": "Liverpool",
+    "status": "advanced",
+    "priceLabel": "€130M+ (예상)",
+    "value": 130,
+    "events": [
+      {
+        "date": "2026-06-04",
+        "clubLabel": "Liverpool",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "오른스타인: 영입 경쟁에서 리버풀이 가장 유리한 위치"
+      },
+      {
+        "date": "2026-06-04",
+        "clubLabel": "PSG",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "PSG도 관심 — 경쟁 구도 형성"
+      },
+      {
+        "date": "2026-06-09",
+        "clubLabel": "Liverpool",
+        "type": "bid",
+        "feeLabel": "€130M+",
+        "noteKo": "로마노: 리버풀, 대규모 자금 투입하며 영입 추진"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Man City",
+        "type": "interest",
+        "feeLabel": "€140M (라이프치히 요구)",
+        "noteKo": "리버풀-맨시티 2파전으로 압축 — 라이프치히는 약 €140M 요구, 리버풀은 선수 의향에 낙관적"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Liverpool",
+        "type": "bid",
+        "feeLabel": "",
+        "noteKo": "로마노: 리버풀, 첫 공식 입찰 제출 — '상당한 금액' 제시"
+      }
+    ]
+  },
+  {
+    "id": "anderson",
+    "name": "Elliot Anderson",
+    "pos": "CM",
+    "fromLabel": "Nott'm Forest",
+    "toLabel": "Man City",
+    "status": "advanced",
+    "priceLabel": "£121M 입찰 거절",
+    "value": 125,
+    "events": [
+      {
+        "date": "2026-06-08",
+        "clubLabel": "Man City",
+        "type": "agreed",
+        "feeLabel": "",
+        "noteKo": "선수 측과 개인 조건 합의 완료"
+      },
+      {
+        "date": "2026-06-08",
+        "clubLabel": "Man City",
+        "type": "bid",
+        "feeLabel": "£106M+£15M",
+        "noteKo": "보장 £106M + 애드온 £15M 입찰"
+      },
+      {
+        "date": "2026-06-08",
+        "clubLabel": "Forest",
+        "type": "demand",
+        "feeLabel": "£120M+",
+        "noteKo": "포레스트는 고정 이적료 £120M 이상 요구"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Forest",
+        "type": "demand",
+        "feeLabel": "£120M+ 고정",
+        "noteKo": "신규 £121M 입찰 거절 — 고정 이적료 £120M 이상 고수 (로마노)"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Man City",
+        "type": "bid",
+        "feeLabel": "",
+        "noteKo": "로마노: 맨시티, 새 공식 입찰 준비 — 맨유는 포레스트 요구액에 추격 포기"
+      }
+    ]
+  },
+  {
+    "id": "gordon",
+    "name": "Anthony Gordon",
+    "pos": "LW",
+    "fromLabel": "Newcastle",
+    "toLabel": "Barcelona",
+    "status": "agreed",
+    "priceLabel": "€80M+",
+    "value": 80,
+    "events": [
+      {
+        "date": "2026-05-28",
+        "clubLabel": "Barcelona",
+        "type": "agreed",
+        "feeLabel": "€80M+%",
+        "noteKo": "오른스타인: 클럽 간 합의 + 개인 조건 타결 (재판매 비율 포함)"
+      }
+    ]
+  },
+  {
+    "id": "bastoni",
+    "name": "Alessandro Bastoni",
+    "pos": "CB",
+    "fromLabel": "Inter",
+    "toLabel": "Barcelona",
+    "status": "advanced",
+    "priceLabel": "약 €60M",
+    "value": 60,
+    "events": [
+      {
+        "date": "2026-04-03",
+        "clubLabel": "Barcelona",
+        "type": "agreed",
+        "feeLabel": "약 €60M",
+        "noteKo": "모레토: 선수 측 이적 동의 — 인터를 떠난다면 바르셀로나만 수락"
+      }
+    ]
+  },
+  {
+    "id": "hincapie",
+    "name": "Piero Hincapié",
+    "pos": "CB",
+    "fromLabel": "Leverkusen",
+    "toLabel": "Arsenal",
+    "status": "done",
+    "priceLabel": "€52M + 10%",
+    "value": 52,
+    "events": [
+      {
+        "date": "2026-06-01",
+        "clubLabel": "Arsenal",
+        "type": "done",
+        "feeLabel": "€52M+10%",
+        "noteKo": "로마노: 임대 → 완전 이적 확정, 재판매 수익 10% 포함"
+      }
+    ]
+  },
+  {
+    "id": "ederson",
+    "name": "Éderson",
+    "pos": "CM",
+    "fromLabel": "Atalanta",
+    "toLabel": "Man Utd",
+    "status": "done",
+    "priceLabel": "€45M",
+    "value": 45,
+    "events": [
+      {
+        "date": "2026-06-02",
+        "clubLabel": "Man Utd",
+        "type": "agreed",
+        "feeLabel": "€45M",
+        "noteKo": "로마노 'Here we go' — 4년 + 옵션 1년 계약"
+      },
+      {
+        "date": "2026-06-06",
+        "clubLabel": "Man Utd",
+        "type": "done",
+        "feeLabel": "",
+        "noteKo": "모든 서류 작업 완료, 100% 확정"
+      }
+    ]
+  },
+  {
+    "id": "nkunku",
+    "name": "Christopher Nkunku",
+    "pos": "FW",
+    "fromLabel": "Chelsea",
+    "toLabel": "Bayern",
+    "status": "advanced",
+    "priceLabel": "구조 협상 중",
+    "value": 40,
+    "events": [
+      {
+        "date": "2026-06-02",
+        "clubLabel": "Bayern",
+        "type": "agreed",
+        "feeLabel": "",
+        "noteKo": "플레텐베르크: 구두 합의 완료, 개인 조건 100% 합의"
+      },
+      {
+        "date": "2026-06-02",
+        "clubLabel": "Chelsea",
+        "type": "demand",
+        "feeLabel": "완전 이적 요구",
+        "noteKo": "첼시는 완전 이적, 바이에른은 임대 형식 검토 — 구조 이견"
+      }
+    ]
+  },
+  {
+    "id": "rashford",
+    "name": "Marcus Rashford",
+    "pos": "FW",
+    "fromLabel": "Man Utd",
+    "toLabel": "Barcelona / Arsenal",
+    "status": "rumour",
+    "priceLabel": "£26M 옵션 — 행사 불투명",
+    "value": 30,
+    "events": [
+      {
+        "date": "2026-01-10",
+        "clubLabel": "Barcelona",
+        "type": "done",
+        "feeLabel": "임대",
+        "noteKo": "임대 딜 서류 확정 — 바르셀로나가 급여 일부 부담"
+      },
+      {
+        "date": "2026-06-01",
+        "clubLabel": "Barcelona",
+        "type": "option",
+        "feeLabel": "€30M",
+        "noteKo": "6월 구매 옵션 행사 여부 결정 시점"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Barcelona",
+        "type": "option",
+        "feeLabel": "£26M 옵션",
+        "noteKo": "스카이/미러: 바르사, 재정 문제로 £26M 옵션 행사 거부 방침 — 옵션 6/15 만료, 재임대 희망"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Arsenal",
+        "type": "interest",
+        "feeLabel": "스왑 거론",
+        "noteKo": "팀톡: 맨유가 아스널에 래시포드 제안 — 마르티넬리 스왑 딜 거론 (저신뢰 루머)"
+      }
+    ]
+  },
+  {
+    "id": "dumfries",
+    "name": "Denzel Dumfries",
+    "pos": "RB",
+    "fromLabel": "Inter",
+    "toLabel": "Real Madrid",
+    "status": "done",
+    "priceLabel": "€25M (조항)",
+    "value": 25,
+    "events": [
+      {
+        "date": "2026-06-03",
+        "clubLabel": "Real Madrid",
+        "type": "medical",
+        "feeLabel": "€25M",
+        "noteKo": "모레토: 릴리스 조항 발동, 수 시간 내 메디컬"
+      },
+      {
+        "date": "2026-06-03",
+        "clubLabel": "Real Madrid",
+        "type": "done",
+        "feeLabel": "",
+        "noteKo": "로마노: 메디컬 통과, 이적 공식화 — 카르바할 후계자"
+      }
+    ]
+  },
+  {
+    "id": "chukwuemeka",
+    "name": "Carney Chukwuemeka",
+    "pos": "CM",
+    "fromLabel": "Chelsea",
+    "toLabel": "Dortmund",
+    "status": "done",
+    "priceLabel": "€25M",
+    "value": 25,
+    "events": [
+      {
+        "date": "2026-01-10",
+        "clubLabel": "Dortmund",
+        "type": "done",
+        "feeLabel": "€25M",
+        "noteKo": "로마노: 완전 이적 확정 — 높은 재판매 조항 포함"
+      }
+    ]
+  },
+  {
+    "id": "martinez",
+    "name": "Emiliano Martínez",
+    "pos": "GK",
+    "fromLabel": "Aston Villa",
+    "toLabel": "Juventus",
+    "status": "advanced",
+    "priceLabel": "£10–15M",
+    "value": 17,
+    "events": [
+      {
+        "date": "2026-06-08",
+        "clubLabel": "Juventus",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "로마노: 리버풀의 알리송 매각 거절 후 GK 1순위 목표로 설정"
+      },
+      {
+        "date": "2026-06-10",
+        "clubLabel": "Juventus",
+        "type": "agreed",
+        "feeLabel": "£10–15M",
+        "noteKo": "디마르지오: 3년 계약 개인 조건 합의 근접 — 선수는 유벤투스행만 희망"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Juventus",
+        "type": "talks",
+        "feeLabel": "",
+        "noteKo": "디마르지오: 신임 CEO 카르네발리도 영입 지지 — 선수는 토리노에서 집 물색 중"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Juventus",
+        "type": "talks",
+        "feeLabel": "",
+        "noteKo": "에이전트 13일 이탈리아 도착 — 막판 쟁점은 연봉(빌라 잔여계약 연 €700만)"
+      }
+    ]
+  },
+  {
+    "id": "sancho",
+    "name": "Jadon Sancho",
+    "pos": "RW",
+    "fromLabel": "Man Utd",
+    "toLabel": "Dortmund",
+    "status": "advanced",
+    "priceLabel": "자유계약 (6/30 만료)",
+    "value": 10,
+    "events": [
+      {
+        "date": "2026-04-23",
+        "clubLabel": "Dortmund",
+        "type": "agreed",
+        "feeLabel": "",
+        "noteKo": "플레텐베르크: 도르트문트 복귀 원칙적 동의 — 맨유 계약 6/30 만료"
+      }
+    ]
+  },
+  {
+    "id": "paz",
+    "name": "Nico Paz",
+    "pos": "AM",
+    "fromLabel": "Como",
+    "toLabel": "Real Madrid",
+    "status": "agreed",
+    "priceLabel": "바이백 옵션",
+    "value": 9,
+    "events": [
+      {
+        "date": "2026-06-01",
+        "clubLabel": "Real Madrid",
+        "type": "agreed",
+        "feeLabel": "바이백",
+        "noteKo": "로마노: 여름 첫 영입으로 복귀 계획 — 선수 이적 동의"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Real Madrid",
+        "type": "interest",
+        "feeLabel": "€9M 바이백",
+        "noteKo": "무리뉴, €9M 바이백 조기 실행 요청 (타볼리에리)"
+      }
+    ]
+  },
+  {
+    "id": "savinho",
+    "name": "Savinho",
+    "pos": "RW",
+    "fromLabel": "Man City",
+    "toLabel": "Tottenham",
+    "status": "agreed",
+    "priceLabel": "£60M 기본 합의",
+    "value": 60,
+    "events": [
+      {
+        "date": "2026-06-02",
+        "clubLabel": "Tottenham",
+        "type": "talks",
+        "feeLabel": "",
+        "noteKo": "로마노: 토트넘-맨시티 간 논의 진전 — 시티는 좋은 제안 시 매각 고려"
+      },
+      {
+        "date": "2026-06-07",
+        "clubLabel": "Tottenham",
+        "type": "agreement",
+        "feeLabel": "£60M",
+        "noteKo": "토트넘-맨시티 '기본 합의' 보도 — 핵심 재정 조건 합의, 세부 사항만 남아"
+      }
+    ]
+  },
+  {
+    "id": "tonali",
+    "name": "Sandro Tonali",
+    "pos": "CM",
+    "fromLabel": "Newcastle",
+    "toLabel": "Man Utd / Arsenal (관심)",
+    "status": "rumour",
+    "priceLabel": "미공개",
+    "value": 7,
+    "events": [
+      {
+        "date": "2026-06-08",
+        "clubLabel": "Arsenal",
+        "type": "contact",
+        "feeLabel": "",
+        "noteKo": "로마노: 아스널이 선수 측과 접촉 — 미드필드 보강 검토"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Man City",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "로마노: 앤더슨 협상 난항 시 맨시티의 미드필더 대안으로 검토"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Man Utd",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "로마노: 에데르송 영입 완료 직후 맨유의 다음 타깃으로 토날리 지목"
+      }
+    ]
+  },
+  {
+    "id": "brown",
+    "name": "Nathaniel Brown",
+    "pos": "LB",
+    "fromLabel": "Eintracht Frankfurt",
+    "toLabel": "Bayern München",
+    "status": "advanced",
+    "priceLabel": "€55M 패키지 (보너스 포함)",
+    "value": 65,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Bayern",
+        "type": "agreement",
+        "feeLabel": "€65M 미만",
+        "noteKo": "팔크: 크뢰셰-에베를 협상 돌파구 — 바이에른의 여름 첫 대형 영입 임박"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Bayern",
+        "type": "talks",
+        "feeLabel": "€55M 패키지",
+        "noteKo": "플레텐베르크: 양 구단 합의에 '상당히 근접' — 보너스 포함 €55M 패키지 현실화, 고정액·옵션만 남아"
+      }
+    ]
+  },
+  {
+    "id": "kim",
+    "name": "Kim Min-jae",
+    "pos": "CB",
+    "fromLabel": "Bayern",
+    "toLabel": "Man Utd (관심)",
+    "status": "rumour",
+    "priceLabel": "€20–25M (추정)",
+    "value": 25,
+    "events": [
+      {
+        "date": "2026-06-11",
+        "clubLabel": "Man Utd",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "맨유, 수비 보강 후보로 김민재 검토 — 월드컵 현장 관찰 예정"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Man Utd",
+        "type": "talks",
+        "feeLabel": "€20–25M",
+        "noteKo": "김민재 측, 맨유에 제안 — 바이에른은 이적료 하향, 연봉 €15M이 변수"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Bayern",
+        "type": "demand",
+        "feeLabel": "매각 열려있음",
+        "noteKo": "타 합류 후 3옵션으로 밀려 — 바이에른은 매각에 개방적"
+      }
+    ]
+  },
+  {
+    "id": "fernandes",
+    "name": "Mateus Fernandes",
+    "pos": "CM",
+    "fromLabel": "West Ham",
+    "toLabel": "Man Utd",
+    "status": "rumour",
+    "priceLabel": "£80–85M (웨스트햄 책정)",
+    "value": 85,
+    "events": [
+      {
+        "date": "2026-06-06",
+        "clubLabel": "Man Utd",
+        "type": "interest",
+        "feeLabel": "£80M (책정가)",
+        "noteKo": "스카이 스포츠: 맨유가 영입 타진 — 웨스트햄 평가액 약 £8,000만"
+      },
+      {
+        "date": "2026-06-11",
+        "clubLabel": "Man Utd",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "MEN 마샬: 앤더슨 추격 포기 후 미드필드 최우선 타깃으로 설정"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Man Utd",
+        "type": "contact",
+        "feeLabel": "£85M (책정가)",
+        "noteKo": "로마노: 웨스트햄에 공식 접촉 — 정식 입찰 준비 중"
+      }
+    ]
+  },
+  {
+    "id": "ngumoha",
+    "name": "Rio Ngumoha",
+    "pos": "LW",
+    "fromLabel": "Liverpool",
+    "toLabel": "Bayern München",
+    "status": "rumour",
+    "priceLabel": "리버풀 매각 거부",
+    "value": 0,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Bayern",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "오른스타인: 바이에른, 응구모하를 좌측 공격 '메인 타깃'으로 설정"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Liverpool",
+        "type": "demand",
+        "feeLabel": "",
+        "noteKo": "리버풀, 여름 매각 가능성 즉각 일축 (피어스도 확인)"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Bayern",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "팔크: 응구모하 본인도 바이에른행에 긍정적이었으나, 리버풀의 매각 거부로 협상 중단"
+      }
+    ]
+  },
+  {
+    "id": "trafford",
+    "name": "James Trafford",
+    "pos": "GK",
+    "fromLabel": "Man City",
+    "toLabel": "Newcastle",
+    "status": "rumour",
+    "priceLabel": "미정",
+    "value": 30,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Newcastle",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "오른스타인: 뉴캐슬, 트래포드 영입 재가동 — 선수는 월드컵 후 거취 결정 원해"
+      }
+    ]
+  },
+  {
+    "id": "vuskovic",
+    "name": "Luka Vušković",
+    "pos": "CB",
+    "fromLabel": "Tottenham",
+    "toLabel": "Brighton",
+    "status": "advanced",
+    "priceLabel": "£30M",
+    "value": 35,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Brighton",
+        "type": "bid",
+        "feeLabel": "£30M",
+        "noteKo": "오른스타인: 브라이튼 £30M 공식 제안 — 선수도 성장 단계로 긍정적"
+      }
+    ]
+  },
+  {
+    "id": "schlotterbeck",
+    "name": "Nico Schlotterbeck",
+    "pos": "CB",
+    "fromLabel": "Dortmund",
+    "toLabel": "Real Madrid / Liverpool",
+    "status": "rumour",
+    "priceLabel": "조항 €50-60M (7/19 만료)",
+    "value": 55,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Real Madrid",
+        "type": "contact",
+        "feeLabel": "€50-60M 조항",
+        "noteKo": "무리뉴 의중에 따라 레알이 선수 측과 접촉 — 조항은 7월 19일(월드컵 종료)까지만 유효, 바이에른에는 미적용 (플레텐베르크)"
+      }
+    ]
+  },
+  {
+    "id": "sorloth",
+    "name": "Alexander Sørloth",
+    "pos": "ST",
+    "fromLabel": "Atlético Madrid",
+    "toLabel": "Juventus",
+    "status": "advanced",
+    "priceLabel": "개인합의 완료 / 유베 €22M vs 아틀레티 €40M",
+    "value": 30,
+    "events": [
+      {
+        "date": "2026-06-09",
+        "clubLabel": "Juventus",
+        "type": "talks",
+        "feeLabel": "€25M+보너스",
+        "noteKo": "유베, 쇠를로트 €25M+보너스 평가 — 아틀레티코 요구액(€40M)을 낮추기 위한 협상 진행 (디마르지오)"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Juventus",
+        "type": "talks",
+        "feeLabel": "€22M vs €40M",
+        "noteKo": "선수와 2029년까지 개인 합의(연 €4M) 완료 — 구단 간 이적료 격차 속 6/17 전 타결설, 니코 곤살레스 카드 거론"
+      }
+    ]
+  },
+  {
+    "id": "bernardosilva",
+    "name": "Bernardo Silva",
+    "pos": "AM",
+    "fromLabel": "Man City (자유계약)",
+    "toLabel": "Real Madrid",
+    "status": "agreed",
+    "priceLabel": "자유이적 — 2+1년 계약",
+    "value": 0,
+    "events": [
+      {
+        "date": "2026-06-11",
+        "clubLabel": "Real Madrid",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "로마노: 무리뉴 부임 직후 레알이 실바 영입 협상 개시"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Real Madrid",
+        "type": "agreed",
+        "feeLabel": "자유이적",
+        "noteKo": "로마노: 2년+1년 옵션 계약 합의 완료 — 공식 발표는 월드컵 이후 예상"
+      }
+    ]
+  },
+  {
+    "id": "balde",
+    "name": "Alejandro Balde",
+    "pos": "LB",
+    "fromLabel": "Barcelona",
+    "toLabel": "Man United",
+    "status": "rumour",
+    "priceLabel": "€50M 안팎",
+    "value": 50,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Man United",
+        "type": "contact",
+        "feeLabel": "",
+        "noteKo": "맨유, 레프트백 보강 후보로 발데 접촉 — 루이스 홀 대안으로 부상"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Barcelona",
+        "type": "interest",
+        "feeLabel": "€50M 안팎",
+        "noteKo": "바르사, 발데 매각 오퍼 청취 의향 — 비벨 디렉터가 내부적으로 강력 추천"
+      }
+    ]
+  },
+  {
+    "id": "saibari",
+    "name": "Ismael Saibari",
+    "pos": "AM",
+    "fromLabel": "PSV",
+    "toLabel": "Bayern München",
+    "status": "advanced",
+    "priceLabel": "€53M (€48M+보너스 €5M)",
+    "value": 53,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Bayern",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "키커: 고든 무산 후 공격 대안으로 사이바리 검토"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Bayern",
+        "type": "advanced",
+        "feeLabel": "",
+        "noteKo": "바이에른, 월드컵 개최지 미국 현지 메디컬 준비 — 다음 주 타결 자신"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Bayern",
+        "type": "bid",
+        "feeLabel": "€53M",
+        "noteKo": "플레텐베르크: 고정 €4,800만+보너스 €500만 개선 제안 — 교착 깨고 급진전, 성사 시 PSV 최고액 방출"
+      }
+    ]
+  },
+  {
+    "id": "couto",
+    "name": "Yan Couto",
+    "pos": "RB",
+    "fromLabel": "Dortmund",
+    "toLabel": "Como",
+    "status": "agreed",
+    "priceLabel": "임대 (2027년 6월까지)",
+    "value": 0,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Como",
+        "type": "interest",
+        "feeLabel": "€20-25M 요구",
+        "noteKo": "도르트문트는 완전 이적 시 €2,000만 이상 요구 — 코모는 임대 선호"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Como",
+        "type": "agreed",
+        "feeLabel": "임대",
+        "noteKo": "로마노: 코모-도르트문트, 2027년 6월까지 임대 기본 합의"
+      }
+    ]
+  },
+  {
+    "id": "stones",
+    "name": "John Stones",
+    "pos": "CB",
+    "fromLabel": "Man City (자유계약)",
+    "toLabel": "미정 (에버턴 등 관심)",
+    "status": "rumour",
+    "priceLabel": "자유이적 예정",
+    "value": 0,
+    "events": [
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Man City",
+        "type": "exit",
+        "feeLabel": "자유계약",
+        "noteKo": "오른스타인: 상호 합의로 맨시티 이탈 확정 — 다음 주 공식 발표 예정"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Everton",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "모이스의 에버턴이 복귀 추진 — 유럽 빅클럽 경쟁 예상"
+      }
+    ]
+  },
+  {
+    "id": "moreira",
+    "name": "Afonso Moreira",
+    "pos": "LW",
+    "fromLabel": "Lyon",
+    "toLabel": "Leverkusen",
+    "status": "advanced",
+    "priceLabel": "€2,500만~3,000만 추산",
+    "value": 27.5,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Leverkusen",
+        "type": "interest",
+        "feeLabel": "€2,500만~3,000만",
+        "noteKo": "키커: 레버쿠젠이 측면 보강 위해 리옹의 모레이라 영입 협상 중"
+      },
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Leverkusen",
+        "type": "agreement",
+        "feeLabel": "",
+        "noteKo": "모레이라 측, 레버쿠젠행에 동의(그린라이트) — 구단 간 이적료 협상 진행"
+      }
+    ]
+  },
+  {
+    "id": "leehanbeom",
+    "name": "Lee Han-beom (이한범)",
+    "pos": "CB",
+    "fromLabel": "FC Midtjylland",
+    "toLabel": "Liverpool / Leeds 외 PL 5팀",
+    "status": "rumour",
+    "priceLabel": "계약 1년 잔류",
+    "value": 20,
+    "events": [
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Liverpool",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "월드컵 체코전 활약 후 리버풀·리즈·첼시·뉴캐슬·브라이턴 스카우트 확인 (팀톡)"
+      }
+    ]
+  },
+  {
+    "id": "macallister",
+    "name": "Alexis Mac Allister",
+    "pos": "CM",
+    "fromLabel": "Liverpool",
+    "toLabel": "미정 (레알 마드리드 등 관심)",
+    "status": "interest",
+    "priceLabel": "£55M (추정)",
+    "value": 55,
+    "events": [
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Liverpool",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "로마노: 구단들이 맥 알리스터 상황 주시 시작 — 이라올라 부임 후 FSG, 좋은 제안 시 매각 고려"
+      }
+    ]
+  },
+  {
+    "id": "vlahovic",
+    "name": "Dušan Vlahović",
+    "pos": "ST",
+    "fromLabel": "Juventus",
+    "toLabel": "Inter / 유벤투스 잔류",
+    "status": "rumour",
+    "priceLabel": "자유계약 (계약 만료)",
+    "value": 0,
+    "events": [
+      {
+        "date": "2026-06-12",
+        "clubLabel": "Juventus",
+        "type": "interest",
+        "feeLabel": "",
+        "noteKo": "카르네발리 단장 부임으로 잔류 가능성 재부상 — 스팔레티 감독 지지"
+      },
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Inter",
+        "type": "contact",
+        "feeLabel": "자유계약",
+        "noteKo": "가제타: 인테르가 에이전트와 접촉, 선수 측 협상에 개방적"
+      }
+    ]
+  },
+  {
+    "id": "livramento",
+    "name": "Tino Livramento",
+    "pos": "RB",
+    "fromLabel": "Newcastle",
+    "toLabel": "Man City",
+    "status": "rumour",
+    "priceLabel": "£70M(예상)",
+    "value": 70,
+    "events": [
+      {
+        "date": "2026-06-13",
+        "clubLabel": "Man City",
+        "type": "interest",
+        "feeLabel": "£70M",
+        "noteKo": "맨시티, 풀백 세계 기록 £7,000만 입찰 준비 보도 — 뉴캐슬 재계약 협상은 답보"
+      }
+    ]
+  }
+]
