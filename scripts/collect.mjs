@@ -30,8 +30,30 @@ const VALID_C = new Set(CLUBS.map((c) => c.id))
 
 const log = (...a) => console.log('[collect]', ...a)
 
-// 축구 외 종목(F1·모터스포츠 등) 오탐 제외 패턴
-const OFFTOPIC = /\b(F1|Formula\s?1|Formula\s?One|Grand Prix|MotoGP|NASCAR|IndyCar)\b|\b(free|final)\s+practice\b|\bqualifying\b|\bpole position\b|\bbrake pedals?\b|\bpit lane\b|\bpaddock\b/i
+// 축구 외 종목 오탐 제외 패턴 (축구 용어와 겹치는 단어는 일부러 제외:
+//  qualifying=월드컵 예선, match/set/try/race/knockout/Boxing Day 등은 넣지 않음)
+const OFFTOPIC = new RegExp(
+  [
+    // 모터스포츠
+    'F1', 'Formula\\s?1', 'Formula\\s?One', 'Grand Prix', 'MotoGP', 'NASCAR', 'IndyCar',
+    '(free|final)\\s+practice', 'pole position', 'pit lane', 'paddock', 'brake pedals?',
+    // 농구·미식축구·야구·하키
+    'NBA', 'WNBA', 'NFL', 'MLB', 'NHL', 'NCAA',
+    'basketball', 'baseball', 'American football', 'ice hockey',
+    'touchdown', 'quarterback', 'Super Bowl', 'home run', 'slam dunk',
+    // 크리켓
+    'cricket', 'wicket', 'batsman', 'bowler', 'Test match', '\\bIPL\\b',
+    // 테니스·골프·럭비·격투기·기타
+    'tennis', '\\bATP\\b', '\\bWTA\\b', 'Wimbledon', 'Grand Slam',
+    'golf', '\\bPGA\\b', 'birdie',
+    'rugby', 'scrum', 'Six Nations',
+    '\\bUFC\\b', '\\bMMA\\b',
+    'cycling', 'Tour de France', 'darts', 'snooker', 'swimming', 'WWE', 'wrestling',
+    // 한국어(번역된 잡음 청소용)
+    '농구', '야구', '크리켓', '테니스', '골프', '럭비', '모터스포츠', '포뮬러', '그랑프리',
+  ].join('|'),
+  'i',
+)
 
 // 무료 키리스 번역 (Google Translate 비공식 엔드포인트) — API 키 없이 영어→한국어
 async function translateFree(text) {
