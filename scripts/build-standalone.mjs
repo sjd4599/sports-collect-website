@@ -696,7 +696,8 @@ function calHtml(ym, inApp) {
   for (let i = 0; i < firstDow; i++) cells += '<div class="cal-day blank"></div>'
   for (let d = 1; d <= daysInMonth; d++) {
     const fx = byDay[d] || []
-    cells += '<div class="cal-day' + (fx.length ? '' : ' off') + '"><span class="cal-num">' + d + '</span>'
+    const iso = ym + '-' + String(d).padStart(2, '0')
+    cells += '<div class="cal-day' + (fx.length ? ' cal-click' : ' off') + '"' + (fx.length ? ' data-calday="' + iso + '"' : '') + '><span class="cal-num">' + d + '</span>'
     for (const f of fx) {
       if (f.away) {
         const title = (f.home + ' vs ' + f.away + ' · ' + f.stage + (f.venue ? ' · ' + f.venue : '') + (f.time ? ' · ' + f.time : '')).replace(/"/g, '&quot;')
@@ -735,6 +736,32 @@ function renderCalInto(el, inApp) {
       renderCalInto(el, inApp)
     })
   })
+  el.querySelectorAll('[data-calday]').forEach((c) => {
+    c.addEventListener('click', () => openDay(c.dataset.calday))
+  })
+}
+
+// 날짜 클릭 → 그날의 경기/이벤트 상세를 모달로 표시
+function openDay(dateStr) {
+  const matches = FIXTURES.filter((f) => f.date === dateStr)
+  if (!matches.length) return
+  const rows = matches.map((f) => {
+    if (f.away) {
+      return '<div class="cd-row"><span class="cd-comp">' + esc(f.comp + ' · ' + f.stage) + '</span>' +
+        '<div class="cd-match"><b>' + (f.homeFlag || '') + ' ' + esc(f.home) + '</b><i>vs</i><b>' + (f.awayFlag || '') + ' ' + esc(f.away) + '</b></div>' +
+        '<span class="cd-meta">' + (f.venue ? esc(f.venue) + ' · ' : '') + esc(f.time || 'TBC') + '</span></div>'
+    }
+    return '<div class="cd-row"><span class="cd-comp">' + esc(f.comp) + '</span>' +
+      '<div class="cd-match"><b>' + (f.compFlag || '') + ' ' + esc(f.home) + '</b></div>' +
+      '<span class="cd-meta">' + esc(f.stage || '') + '</span></div>'
+  }).join('')
+  const overlay = document.getElementById('team-modal')
+  overlay.querySelector('.tmodal-card').innerHTML =
+    '<button class="tmodal-close" aria-label="닫기">×</button>' +
+    '<div class="cal-detail"><div class="cd-head">' + dateStr + ' · ' + matches.length + ' 경기·이벤트</div>' + rows + '</div>'
+  overlay.style.display = 'flex'
+  document.body.style.overflow = 'hidden'
+  overlay.querySelector('.tmodal-close').addEventListener('click', closeTeam)
 }
 
 renderCalInto(document.getElementById('home-cal-mount'), false)
