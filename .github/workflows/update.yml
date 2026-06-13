@@ -39,6 +39,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 없으면 og:image만 채움
         run: node scripts/backfill-images.mjs --max=200
 
+      # 1-c) 이적 트래커 선수 프로필 사진 backfill (위키피디아/Commons)
+      - name: Backfill player photos
+        run: node scripts/backfill-player-photos.mjs
+
       # 2) 정적 페이지 재생성
       - name: Build standalone
         run: |
@@ -52,7 +56,7 @@ jobs:
         run: |
           git config user.name 'press-matrix-bot'
           git config user.email 'bot@users.noreply.github.com'
-          git add src/data/articles.json standalone.html
+          git add src/data/articles.json src/data/transfers.json standalone.html
           [ -d genimg ] && git add genimg || true
           git diff --cached --quiet || git commit -m 'chore: auto-collect articles'
           git push

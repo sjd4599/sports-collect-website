@@ -501,7 +501,7 @@ function centerHtml(sel) {
   return '<div class="tt-diagram">' +
     nodeHtml(clubFor(sel.fromLabel), 'from') +
     '<span class="tt-line' + (solid ? ' solid' : '') + '"></span>' +
-    '<span class="tt-center-photo"><span class="tt-photo-label">Photo</span></span>' +
+    '<span class="tt-center-photo">' + (sel.photo ? '<img class="tt-photo-img" src="' + sel.photo + '" alt="' + esc(sel.name) + '" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">' : '<span class="tt-photo-label">Photo</span>') + '</span>' +
     '<div class="tt-stack">' + stack + '</div></div>' +
     '<span class="tt-center-name">' + esc(sel.name) + '</span>' +
     '<span class="tt-center-route">' + esc(sel.pos) + ' · ' + esc(sel.fromLabel) + ' → ' + esc(sel.toLabel) + '</span>' +

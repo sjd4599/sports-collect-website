@@ -259,7 +259,18 @@ export default function Transfers() {
                   }
                 />
                 <span className="tt-center-photo">
-                  <span className="tt-photo-label">Photo</span>
+                  {selected.photo ? (
+                    <img
+                      className="tt-photo-img"
+                      src={selected.photo}
+                      alt={selected.name}
+                      loading="lazy"
+                      referrerPolicy="no-referrer"
+                      onError={(e) => (e.currentTarget.style.display = 'none')}
+                    />
+                  ) : (
+                    <span className="tt-photo-label">Photo</span>
+                  )}
                 </span>
                 <div className="tt-stack">
                   {linkedClubs(selected).map((c, i) => (
