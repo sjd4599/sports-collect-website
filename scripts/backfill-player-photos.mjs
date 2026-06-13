@@ -11,11 +11,10 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const PATH = join(root, 'src/data/transfers.json')
 const log = (...a) => console.log('[player-photos]', ...a)
 
-async function wikiPhoto(name) {
-  if (!name) return null
+async function wikiPhotoFrom(host, name) {
   try {
     const url =
-      'https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages' +
+      'https://' + host + '.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages' +
       '&piprop=thumbnail&pithumbsize=420&titles=' + encodeURIComponent(name)
     const res = await fetch(url, { headers: { 'user-agent': 'FootballPressMatrix/1.0 (football news demo)' } })
     if (!res.ok) throw new Error('HTTP ' + res.status)
@@ -28,9 +27,14 @@ async function wikiPhoto(name) {
     }
     return null
   } catch (e) {
-    log('실패:', name, String(e).slice(0, 60))
     return null
   }
+}
+
+// 영어 위키 → 한국어 위키 순으로 선수 대표 사진을 찾음
+async function wikiPhoto(name) {
+  if (!name) return null
+  return (await wikiPhotoFrom('en', name)) || (await wikiPhotoFrom('ko', name))
 }
 
 const transfers = JSON.parse(readFileSync(PATH, 'utf8'))
