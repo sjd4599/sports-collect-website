@@ -21,6 +21,7 @@ const MAX_NEW = Number((process.argv.find((a) => a.startsWith('--max=')) || '').
 const FRESH_DAYS = 30
 const WINDOW_HOURS = 48 // 이 시간 안에 게시된 항목만 후보로
 const API_KEY = process.env.ANTHROPIC_API_KEY
+const OPENAI_KEY = process.env.OPENAI_API_KEY // 있으면 GPT로 번역 (Anthropic 키 없을 때)
 
 const { JOURNALISTS } = await import(join(root, 'src/data/journalists.js'))
 const { CLUBS } = await import(join(root, 'src/data/clubs.js'))
@@ -28,6 +29,25 @@ const VALID_J = new Set(JOURNALISTS.map((j) => j.id))
 const VALID_C = new Set(CLUBS.map((c) => c.id))
 
 const log = (...a) => console.log('[collect]', ...a)
+
+// 축구 외 종목(F1·모터스포츠 등) 오탐 제외 패턴
+const OFFTOPIC = /\b(F1|Formula\s?1|Formula\s?One|Grand Prix|MotoGP|NASCAR|IndyCar)\b|\b(free|final)\s+practice\b|\bqualifying\b|\bpole position\b|\bbrake pedals?\b|\bpit lane\b|\bpaddock\b/i
+
+// 무료 키리스 번역 (Google Translate 비공식 엔드포인트) — API 키 없이 영어→한국어
+async function translateFree(text) {
+  const s = String(text || '').trim()
+  if (!s) return ''
+  try {
+    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=' + encodeURIComponent(s.slice(0, 1800))
+    const res = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0' } })
+    if (!res.ok) throw new Error('HTTP ' + res.status)
+    const data = await res.json()
+    const ko = (data[0] || []).map((seg) => seg[0]).join('')
+    return ko || s
+  } catch {
+    return s
+  }
+}
 
 // ── 유틸 ──
 const strip = (s) =>
@@ -96,14 +116,57 @@ function matchClubs(text) {
   return found.slice(0, 2) // 한 기사 최대 2개 구단
 }
 
+// ── OpenAI(GPT) API: 한국어 제목/요약 일괄 생성 (OPENAI_API_KEY 필요) ──
+async function summarizeKoOpenAI(items) {
+  const payload = items.map((it, i) => ({ i, title: it.title, desc: (it.description || '').slice(0, 400) }))
+  const body = {
+    model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
+    temperature: 0.2,
+    messages: [
+      {
+        role: 'user',
+        content:
+          '다음 축구 기사들의 한국어 헤드라인(titleKo)과 2문장 사실 요약(summaryKo)을 만들어줘. ' +
+          '의견·과장 없이 사실만, 자연스러운 한국어로. JSON 배열만 출력: ' +
+          '[{"i":0,"titleKo":"...","summaryKo":"..."}, ...]\n\n' +
+          JSON.stringify(payload),
+      },
+    ],
+  }
+  const res = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', authorization: 'Bearer ' + OPENAI_KEY },
+    body: JSON.stringify(body),
+  })
+  if (!res.ok) throw new Error('OpenAI API ' + res.status + ': ' + (await res.text()).slice(0, 200))
+  const data = await res.json()
+  const text = (data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content) || ''
+  const arr = JSON.parse(text.slice(text.indexOf('['), text.lastIndexOf(']') + 1))
+  const byI = new Map(arr.map((x) => [x.i, x]))
+  return items.map((_, i) => byI.get(i) || { titleKo: items[i].title, summaryKo: items[i].description || '' })
+}
+
 // ── Claude API: 한국어 제목/요약 일괄 생성 ──
 async function summarizeKo(items) {
+  // Anthropic 키가 없을 때: OpenAI(GPT) → 그것도 없으면 무료 번역
+  if (!API_KEY && OPENAI_KEY) {
+    try {
+      log('OpenAI(GPT)로 한국어 요약 생성')
+      return await summarizeKoOpenAI(items)
+    } catch (e) {
+      log('OpenAI 실패 — 무료 번역으로 폴백:', String(e).slice(0, 100))
+    }
+  }
   if (!API_KEY) {
-    log('ANTHROPIC_API_KEY 없음 — 원문 제목으로 추가 ([EN] 표시)')
-    return items.map((it) => ({
-      titleKo: '[EN] ' + it.title.slice(0, 120),
-      summaryKo: (it.description || it.title).slice(0, 220),
-    }))
+    log('무료 번역(Google Translate)으로 한국어 생성')
+    const out = []
+    for (const it of items) {
+      out.push({
+        titleKo: await translateFree(it.title),
+        summaryKo: await translateFree((it.description || it.title).slice(0, 280)),
+      })
+    }
+    return out
   }
   const payload = items.map((it, i) => ({ i, title: it.title, desc: (it.description || '').slice(0, 400) }))
   const body = {
@@ -154,7 +217,16 @@ async function ogImage(url) {
 }
 
 // ── 메인 ──
-const articles = JSON.parse(readFileSync(ARTICLES_PATH, 'utf8'))
+let articles = JSON.parse(readFileSync(ARTICLES_PATH, 'utf8'))
+// 시작 시 잡음 청소: [EN] 미번역 + F1 등 오탐 제거 → 같은 기사가 재수집 시 한국어로 다시 채워짐
+articles = articles.filter(
+  (a) =>
+    !String(a.titleKo || '').startsWith('[EN]') &&
+    !OFFTOPIC.test((a.titleKo || '') + ' ' + (a.summaryKo || '')),
+)
+for (const a of articles) {
+  if (a.imageUrl && String(a.url || '').includes('news.google.com')) delete a.imageUrl
+}
 const known = new Set(articles.map((a) => normalizeUrl(a.url)))
 const knownTitle = new Set(articles.map((a) => (a.titleKo || '').slice(0, 30)))
 const since = Date.now() - WINDOW_HOURS * 3600000
@@ -175,6 +247,7 @@ for (const src of SOURCES) {
         if (known.has(url)) continue
         const clubs = matchClubs(it.title + ' ' + it.description)
         if (!clubs.length) continue
+        if (OFFTOPIC.test(it.title + ' ' + it.description)) continue // F1 등 축구 외 제외
         candidates.push({ journalist: src.id, clubs, url, ...it, ts: Number.isFinite(ts) ? ts : Date.now() })
         known.add(url)
         n++
@@ -199,7 +272,7 @@ if (picked.length) {
   const ko = await summarizeKo(picked)
   for (let i = 0; i < picked.length; i++) {
     const c = picked[i]
-    let img = await ogImage(c.url)
+    let img = c.url.includes('news.google.com') ? null : await ogImage(c.url)
     let ai = false
     // og:image 실패 시 Gemini로 구단 컬러 일러스트 생성 (GEMINI_API_KEY 필요)
     if (!img && process.env.GEMINI_API_KEY) {
@@ -236,9 +309,19 @@ if (picked.length) {
   }
 }
 
-// 30일 경과 정리
+// 30일 경과 정리 + 잡음 청소
 const cutoff = Date.now() - FRESH_DAYS * 86400000
 const before = articles.length
-const kept = articles.filter((a) => new Date(a.date + 'T00:00:00').getTime() >= cutoff)
+let kept = articles.filter((a) => new Date(a.date + 'T00:00:00').getTime() >= cutoff)
+// [EN] 미번역 잔재 제거 + F1 등 오탐 제거
+kept = kept.filter(
+  (a) =>
+    !String(a.titleKo || '').startsWith('[EN]') &&
+    !OFFTOPIC.test((a.titleKo || '') + ' ' + (a.summaryKo || '')),
+)
+// 구글 뉴스 로고가 이미지로 잡힌 항목은 이미지 제거 (구단 컬러 폴백 표시)
+for (const a of kept) {
+  if (a.imageUrl && String(a.url || '').includes('news.google.com')) delete a.imageUrl
+}
 writeFileSync(ARTICLES_PATH, JSON.stringify(kept, null, 2))
-log('추가', picked.length, '| 만료 제거', before - kept.length, '| 총', kept.length)
+log('추가', picked.length, '| 정리 후 총', kept.length, '| 제거', before - kept.length)

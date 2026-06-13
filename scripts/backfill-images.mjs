@@ -60,7 +60,7 @@ for (const a of articles) {
   tried++
 
   let img = null
-  if (!isSocial(a.url)) img = await ogImage(a.url)
+  if (!isSocial(a.url) && !String(a.url).includes('news.google.com')) img = await ogImage(a.url)
   if (img) {
     a.imageUrl = img
     filled++

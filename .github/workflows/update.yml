@@ -29,6 +29,7 @@ jobs:
       - name: Collect new articles
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} # 있으면 GPT로 번역 (Anthropic 키 없을 때)
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # 없으면 이미지 생성 폴백만 생략됨
         run: node scripts/collect.mjs --max=40
 
