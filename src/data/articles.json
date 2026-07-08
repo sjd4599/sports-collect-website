@@ -1,72 +1,6 @@
 [
   {
     "journalist": "romano",
-    "club": "mancity",
-    "date": "2026-06-08",
-    "sourceType": "article",
-    "outlet": "Sports Mole",
-    "titleKo": "맨시티, 엘리엇 앤더슨 영입 위해 새로운 공식 입찰 준비",
-    "summaryKo": "맨시티가 노팅엄 포레스트의 미드필더 엘리엇 앤더슨 영입을 위해 새로운 공식 입찰을 준비 중이다. 맨시티는 £1억 600만 보장금과 £1,500만 애드온을 제시했으나, 포레스트는 £1억 2,000만 이상의 고정 이적료를 요구하고 있다. 앤더슨은 이미 맨시티와 개인 조건에 합의했다.",
-    "url": "https://www.sportsmole.co.uk/football/man-city/transfer-talk/news/man-city-prepare-new-bid-for-nottingham-forest-midfielder-elliot-anderson_598838.html",
-    "imageUrl": "https://www.sportsmole.co.uk/thumbor/s-wBqZ1vYK-5nVIc_sW1T11Qbn0=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F06%2Felliot-anderson-future-email-sportmole-6a26ad7642777647555767.png"
-  },
-  {
-    "journalist": "romano",
-    "club": "arsenal",
-    "date": "2026-06-08",
-    "sourceType": "article",
-    "outlet": "Caught Offside",
-    "titleKo": "로마노, 아스널의 산드로 토날리 관심 확인",
-    "summaryKo": "파브리지오 로마노가 아스널이 뉴캐슬의 미드필더 산드로 토날리 측과 접촉했다고 확인했다. 아스널은 이번 여름 이적시장에서 미드필드 보강을 검토 중이다.",
-    "url": "https://www.caughtoffside.com/2026/06/08/arsenal-sandro-tonali-transfer-fabrizio-romano-newcastle/",
-    "imageUrl": "https://icdn.caughtoffside.com/wp-content/uploads/2026/06/image_2026-06-09_033822629.jpg"
-  },
-  {
-    "journalist": "romano",
-    "club": "juventus",
-    "date": "2026-06-08",
-    "sourceType": "article",
-    "outlet": "Caught Offside",
-    "titleKo": "유벤투스, 리버풀의 알리송 매각 거절 후 에밀리아노 마르티네스 추적",
-    "summaryKo": "유벤투스가 리버풀로부터 알리송 영입을 거절당한 뒤 에밀리아노 마르티네스를 골키퍼 1순위 목표로 정했다. 아스톤 빌라와 이적료 및 계약 세부사항 협상이 시작됐다.",
-    "url": "https://www.caughtoffside.com/2026/06/08/juventus-emiliano-martinez-transfer-alisson-liverpool-romano/",
-    "imageUrl": "https://icdn.caughtoffside.com/wp-content/uploads/2026/06/image_2026-06-09_014545813.jpg"
-  },
-  {
-    "journalist": "pearce",
-    "club": "liverpool",
-    "date": "2026-06-08",
-    "sourceType": "article",
-    "outlet": "The Athletic",
-    "titleKo": "리버풀, 인터의 커티스 존스 영입 제안에 '마지못해' 응할 수도",
-    "summaryKo": "제임스 피어스는 리버풀이 커티스 존스를 팔고 싶지 않지만, 선수가 이적을 원하고 적절한 제안이 오면 협상에 응할 수 있다고 전했다. 인터 밀란은 약 €2,500만을 제시했다.",
-    "url": "https://www.thisisanfield.com/2026/06/liverpool-curtis-jones-transfer-interest-inter-milan-2026/",
-    "imageUrl": "https://www.thisisanfield.com/wp-content/uploads/P2026-05-24-Liverpool_Brentford-73.jpg"
-  },
-  {
-    "journalist": "pearce",
-    "club": "inter",
-    "date": "2026-06-08",
-    "sourceType": "article",
-    "outlet": "The Athletic",
-    "titleKo": "인터 밀란, 리버풀 커티스 존스에 €2,500만 제안",
-    "summaryKo": "제임스 피어스에 따르면 인터 밀란이 리버풀 미드필더 커티스 존스 영입을 위해 약 €2,500만을 제시했다. 리버풀은 매각을 원치 않지만 선수 의사에 따라 협상 가능성이 있다.",
-    "url": "https://www.thisisanfield.com/2026/06/liverpool-curtis-jones-transfer-interest-inter-milan-2026/",
-    "imageUrl": "https://www.thisisanfield.com/wp-content/uploads/P2026-05-24-Liverpool_Brentford-73.jpg"
-  },
-  {
-    "journalist": "dimarzio",
-    "club": "milan",
-    "date": "2026-06-08",
-    "sourceType": "article",
-    "outlet": "Sky Sport Italia",
-    "titleKo": "디마르지오: 밀란, 단장·감독 인선 아직 확정 없음",
-    "summaryKo": "디마르지오에 따르면 밀란은 스포츠 디렉터와 감독 인선에서 확정된 합의가 없는 상태다. 랄프 랑닉과 협상 중이지만 최종 합의에는 이르지 못했다.",
-    "url": "https://milanreports.com/2026/06/08/di-marzio-no-certainties-about-milan/",
-    "imageUrl": "https://milanreports.com/wp-content/uploads/2023/12/dl.beatsnoop.com-x2-t1rzon6cYN.jpg"
-  },
-  {
-    "journalist": "romano",
     "club": "liverpool",
     "date": "2026-06-09",
     "sourceType": "article",
@@ -125172,5 +125106,194 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJSUVZGeGxtVjFjVFU0ZWxZS0RvUm16TnAxbDFxcE9mWXRkOU1WWUJneWFEdkJfSUQ1QVZVa1U0SzB EZTdYeXRqc212YXlSbGxaNEJxa0d1YUNjTkJLMDRzYk5DcEhSNzNKb2F0d3MxSnA4S3J5 aTh6SnhvUm10bVhMNlJMbGpzZDVaQVVRLXJ4a1NIWkZLX1A1S1hYc0JrSFV4ZDhIa1U3Z3",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJSUVZGeGxtVjFjVFU0ZWxZS0RvUm16TnAxbDFxcE9mWXRkOU1WWUJneWFEdkJfSUQ1QVZVa1U0SzBEZTdYeXRqc212YXlSbGxaNEJxa0d1YUNjTkJLMDRzYk5DcEhSNzNKb2F0d3MxSnA4S3J5aTh6SnhvUm10bVhMNlJMbGpzZDVaQVVRLXJ4a1NIWkZLX1A1S1hYc0JrSFV4ZDhIa1U3Z3U2Vm9TSnJ5dw?oc=5",
     "publishedAt": "2026-07-07T11:05:58.000Z"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "arg",
+    "date": "2026-07-08",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "스위스는 승부차기 끝에 콜롬비아를 꺾고 72년 만에 월드컵 8강에 진출했고, 잉글랜드는 리오넬 메시의 아르헨티나와 조별리그를 확정했다.",
+    "summaryKo": "콜롬비아가 잉글랜드에 진출한 지 8년 만에 또다시 승부차기 아픔을 겪으면서 스위스는 72년 만에 월드컵 8강에 진출했다.",
+    "url": "https://www.dailymail.com/sport/football/article-15959715/Switzerland-beat-Colombia-penalties-reach-World-Cup-quarter-finals-time-72-years-set-date-Lionel-Messis-Argentina-Englands-draw.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-07-08T00:04:08.000Z"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "liverpool",
+    "date": "2026-07-08",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "또 다른 이적이 마감되면서 리버풀의 새로운 영입이 AXA 트레이닝 센터에 도착했습니다.",
+    "summaryKo": "리버풀 U-21 선수들은 이번 주에 곧 새로운 얼굴들과 함께 훈련에 복귀했습니다.",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-new-signing-arrives-axa-34253083",
+    "publishedAt": "2026-07-08T00:00:00.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34253418.ece/ALTERNATES/s1200d/0_GettyImages-2276204703.jpg"
+  },
+  {
+    "journalist": "marca",
+    "club": "usa",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Marca",
+    "titleKo": "USMNT의 성은 마우리시오 포체티노 감독 밑에서 그들의 플레이 방식에 대한 기시감으로 무너졌다 - MARCA",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDE1SzlXR0QyYVduaGM3a201MHduVHdFREZRNDZfQ2JmR182LWxuNkNrZkVwYk94bXNEaDZ3MF81dGZ GRFdjd2RlbjRlazVUSTJuc2tPZG9GSmxJTWV5RjE4Z05RMmNBdzVjUWkxbEJXWmFaTHhoTnBTVzFteFFYRW9ZNXpHWWJlM0g3elBRNG1wNWdWbEJRcldhY0xtWjVIMXNXa3JLNmV1Tz",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDE1SzlXR0QyYVduaGM3a201MHduVHdFREZRNDZfQ2JmR182LWxuNkNrZkVwYk94bXNEaDZ3MF81dGZGRFdjd2RlbjRlazVUSTJuc2tPZG9GSmxJTWV5RjE4Z05RMmNBdzVjUWkxbEJXWmFaTHhoTnBTVzFteFFYRW9ZNXpHWWJlM0g3elBRNG1wNWdWbEJRcldhY0xtWjVIMXNXa3JLNmV1TzdBTlNfVlhQS3V1UUNTX0lfMzJZbTFNM3pMQWp0Um9odmxmcmNFT05R0gHTAUFVX3lxTFB4RHh0LTFpWGxnZDhoWGRBaVB3TjdyZGtPVXZjSVNzNUhjMlZrTmFDSGpkYjdvMi1hUnB0ZXNQMkR6TEViekR4MHNSd3lUcUoyTDJJOTdURmZEZEx3MTRhUE5YaHBYV1lHNE5WZTRoblR5WnBTV29EOHJDYkNaNW5uQ3B2eEg1MWF6S1pFcGJ3ZlZ3Ny1MMVFJTVBmQ3lBTndaZW1Ja19vdFQzSTNMSWIxRVczM1VDUW9Qc0ZmQVVIVXJ6U044andWc21IVmFLajZRWUE?oc=5",
+    "publishedAt": "2026-07-07T23:53:23.000Z"
+  },
+  {
+    "journalist": "thesun",
+    "club": "mancity",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "마크 구에히는 잉글랜드 스타가 '아무도 우리를 막을 수 없다'고 말하면서 월드컵에서 얼링 홀란드를 만나기를 고대하고 있습니다.",
+    "summaryKo": "마르크 구에히는 맨체스터 시티 팀 동료인 엘링 홀란드와의 월드컵 8강전을 손꼽아 기다리고 있습니다. 게히는 토요일 잉글랜드와 노르웨이의 회담을 앞두고 “재밌을 것 같아요!”라고 인정했습니다. 뜨거운 홀란드는 이미 토너먼트에서 7골을 넣었습니다. 공격수,",
+    "url": "https://www.thesun.co.uk/sport/39684722/erling-haaland-manchester-city-england-norway-world-cup-guehi/",
+    "publishedAt": "2026-07-07T23:40:13.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-39684746.jpg"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "liverpool",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "풀럼은 새 감독으로 알바로 아르벨로아를 발표했습니다: 레알 마드리드의 악몽 이후 크레이븐 코티지에서 마르코 실바를 대체하는 전 리버풀 스타",
+    "summaryKo": "Cottagers가 마침내 Marco Silva의 후임자를 찾음에 따라 Alvaro Arbeloa가 Fulham의 새로운 감독으로 발표되었습니다.",
+    "url": "https://www.dailymail.com/sport/football/article-15960823/Fulham-announce-Alvaro-Arbeloa-new-manager-Ex-Liverpool-star-replaces-Marco-Silva-Craven-Cottage-Real-Madrid-nightmare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-07-07T23:31:53.000Z"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "realmadrid",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "풀럼은 새 감독으로 알바로 아르벨로아를 발표했습니다: 레알 마드리드의 악몽 이후 크레이븐 코티지에서 마르코 실바를 대체하는 전 리버풀 스타",
+    "summaryKo": "Cottagers가 마침내 Marco Silva의 후임자를 찾음에 따라 Alvaro Arbeloa가 Fulham의 새로운 감독으로 발표되었습니다.",
+    "url": "https://www.dailymail.com/sport/football/article-15960823/Fulham-announce-Alvaro-Arbeloa-new-manager-Ex-Liverpool-star-replaces-Marco-Silva-Craven-Cottage-Real-Madrid-nightmare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-07-07T23:31:53.000Z"
+  },
+  {
+    "journalist": "goal",
+    "club": "arg",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "GOAL",
+    "titleKo": "'리오넬 메시가 계속 뛰길 바랐다' - 이집트는 VAR 논란을 불러일으킨 아르헨티나에 월드컵 패배를 안겨준 뒤 '불의'에 대해 한탄했다. - Goal.com",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGNXdkJ3TzNoRVRFeGo0ZGxQT1djckw5aFp4d1Q3QXQtNWpOWmZKdS02Ty02bjhxOF9HZ1hSVlRXLUE ybmFzbjBxa0VSQ0xpMkU3dTNCSVA5akluRjlJWmh0TkN6ZU5HZlF0a3Y1QnJjSEhfYldM atF6YkhpbER3U1RLOUxZVlRkbzlEU2diZ1RQZWYyZEc0M2UtRm1jS2wyemhTZ2I2aTdmNn",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGNXdkJ3TzNoRVRFeGo0ZGxQT1djckw5aFp4d1Q3QXQtNWpOWmZKdS02Ty02bjhxOF9HZ1hSVlRXLUEybmFzbjBxa0VSQ0xpMkU3dTNCSVA5akluRjlJWmh0TkN6ZU5HZlF0a3Y1QnJjSEhfYldMaTF6YkhpbER3U1RLOUxZVlRkbzlEU2diZ1RQZWYyZEc0M2UtRm1jS2wyemhTZ2I2aTdmNnRKbE1uXw?oc=5",
+    "publishedAt": "2026-07-07T21:12:23.000Z"
+  },
+  {
+    "journalist": "ornstein",
+    "club": "astonvilla",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "The Athletic",
+    "titleKo": "오나나의 패배로 인해 아스톤 빌라의 어려운 여름에 새로운 압박이 가해졌습니다 - roundtable.io",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeG1UUFA0aHdPTFY1c3VnalloOFZBWUhrTzd4NG9NcW9SNElKazY4SXAzRFJwc1dpNkJtMWVRUmdXQU8 twHdPMmh3dWYzNUdJeWZuQlE3b3Y3M0JWVzdRVWxNRTBPTzhXNmY3aXlGU3YwRzNhMDNL NlMwU0tpVmROSjhOd1ZxNmdhaFV1eUtpSWtZSjVnbWp2dU05WXlMemVjSnZWaTU1aFRIVW",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeG1UUFA0aHdPTFY1c3VnalloOFZBWUhrTzd4NG9NcW9SNElKazY4SXAzRFJwc1dpNkJtMWVRUmdXQU8tWHdPMmh3dWYzNUdJeWZuQlE3b3Y3M0JWVzdRVWxNRTBPTzhXNmY3aXlGU3YwRzNhMDNLNlMwU0tpVmROSjhOd1ZxNmdhaFV1eUtpSWtZSjVnbWp2dU05WXlMemVjSnZWaTU1aFRIVW5Fcmt0TENkeVV0SE5jYV92Tkh6ejZ1akZtd2NMbXBkMzI3SVZJ?oc=5",
+    "publishedAt": "2026-07-07T20:56:05.000Z"
+  },
+  {
+    "journalist": "goal",
+    "club": "barcelona",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "GOAL",
+    "titleKo": "빅터 오시멘이 바르셀로나 이적이 절대 이루어지지 않는 이유를 밝혔습니다 - 갈라타사라이에서 캄프누로 이적하는 나이지리아 공격수는 배제됨 - Goal.com",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1RkclVPU1lnTEprYmwtalczcXF5dHV6bWJZWFlwY0MtNXRncXNGWUhfR3VOOUh0cUVkNE1fY3VoX3l HUzhHNG9yVmRoQ2ZfZDhoUWdpOXgyRlJvSHV1bV9UZU00VnktU1VqdnBOcjV4Q05xdDll U01SQzdHZFcxYnhCbUc1Zl9Xb2hZd1BhOXV6WXN0X1B0SDUxYk5PZnNKc1Q4ODJUcmJhUU",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1RkclVPU1lnTEprYmwtalczcXF5dHV6bWJZWFlwY0MtNXRncXNGWUhfR3VOOUh0cUVkNE1fY3VoX3lHUzhHNG9yVmRoQ2ZfZDhoUWdpOXgyRlJvSHV1bV9UZU00VnktU1VqdnBOcjV4Q05xdDllU01SQzdHZFcxYnhCbUc1Zl9Xb2hZd1BhOXV6WXN0X1B0SDUxYk5PZnNKc1Q4ODJUcmJhUUJyRDE1WlViR0o2cWMxX3J5VExZSGc2ZzRKdExR?oc=5",
+    "publishedAt": "2026-07-07T20:55:50.000Z"
+  },
+  {
+    "journalist": "wire",
+    "club": "arsenal",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "기타 종합",
+    "titleKo": "일란 메슬리어: 아스날, 임대 대기 중인 어린 선수로서 자유계약선수(FA) 골키퍼 영입 협상 거의 완료 - London Evening Standard",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmNrUHpuYnFGLWVQOVdHWk1BMFhjalZ2T3BFWm9haElEeXdpSkZadG5FTF81TlVPRzV0S3VUYnFPO FcwcFdqTFp1WXVBbVZhMnZweHIyQi1mbEVWb29DdXdhTVNWLXM4YjdPSUhyeW93TDZRSGFGWG9mYXBqdGxrSlVWXzU4cTZqLS1uMWhzaEpRM2FCUUJwUTFFTDZ5dWtPOXc?oc=5\" 타르그",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmNrUHpuYnFGLWVQOVdHWk1BMFhjalZ2T3BFWm9haElEeXdpSkZadG5FTF81TlVPRzV0S3VUYnFPOFcwcFdqTFp1WXVBbVZhMnZweHIyQi1mbEVWb29DdXdhTVNWLXM4YjdPSUhyeW93TDZRSGFGWG9mYXBqdGxrSlVWXzU4cTZqLS1uMWhzaEpRM2FCUUJwUTFFTDZ5dWtPOXc?oc=5",
+    "publishedAt": "2026-07-07T16:34:14.000Z"
+  },
+  {
+    "journalist": "wire",
+    "club": "arsenal",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "기타 종합",
+    "titleKo": "아스날, 거너스와 '올여름 첫 계약 합의' 이제 임대도 떠날 예정 - 풋볼 런던",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHE0c3VFVGhuTlZwRzRFRjlJR1VYS0J3dnliUjRuQkVCV0Y1VndQekFJcGVSbU5GbjNsNkNTUFhKRWl ycjNVWFNRcW5OY1NiNlM2eUVyMXJVVHdhVXV2dWE2WXRtRlhEdlE0Ti1LVGFScmZVQXM4cVJMZFlubXg4aU5ITGY1cFZtems4dWpTT1FnR3ZDZlgwUkpiTVI3VWJKR2pXatIBpAFBVV",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHE0c3VFVGhuTlZwRzRFRjlJR1VYS0J3dnliUjRuQkVCV0Y1VndQekFJcGVSbU5GbjNsNkNTUFhKRWlycjNVWFNRcW5OY1NiNlM2eUVyMXJVVHdhVXV2dWE2WXRtRlhEdlE0Ti1LVGFScmZVQXM4cVJMZFlubXg4aU5ITGY1cFZtems4dWpTT1FnR3ZDZlgwUkpiTVI3VWJKR2pXatIBpAFBVV95cUxNdHE0c3VFVGhuTlZwRzRFRjlJR1VYS0J3dnliUjRuQkVCV0Y1VndQekFJcGVSbU5GbjNsNkNTUFhKRWlycjNVWFNRcW5OY1NiNlM2eUVyMXJVVHdhVXV2dWE2WXRtRlhEdlE0Ti1LVGFScmZVQXM4cVJMZFlubXg4aU5ITGY1cFZtems4dWpTT1FnR3ZDZlgwUkpiTVI3VWJKR2pXag?oc=5",
+    "publishedAt": "2026-07-07T15:21:45.000Z"
+  },
+  {
+    "journalist": "falk",
+    "club": "bayern",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "BILD",
+    "titleKo": "바이에른은 Musiala가 계획된 수술을 받은 후 우려를 완화했습니다 - Lentedesportiva",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRsWmZCVXRYRXFaMS1CU0ZRb0FKMWtqNGFMOXF6UzByUlZVVDJ0SnZaUURvNXp0R25 SUklLWm1YOWlRQjdEcDlvaHF2R0hXdnRPMm8xZG9DZldoNjhvdU55TFIwanoycGNrRng1andjV0pTMXFJUUhaaE9rNXVyQmpud09tVWdWM3F4UzFrU2tobEk?oc=5\" target=\"_blank\">바이에른 e",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjRsWmZCVXRYRXFaMS1CU0ZRb0FKMWtqNGFMOXF6UzByUlZVVDJ0SnZaUURvNXp0R25SUklLWm1YOWlRQjdEcDlvaHF2R0hXdnRPMm8xZG9DZldoNjhvdU55TFIwanoycGNrRng1andjV0pTMXFJUUhaaE9rNXVyQmpud09tVWdWM3F4UzFrU2tobEk?oc=5",
+    "publishedAt": "2026-07-07T11:05:00.000Z"
+  },
+  {
+    "journalist": "mundodeportivo",
+    "club": "realmadrid",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Mundo Deportivo",
+    "titleKo": "레알 마드리드는 이미 쿠르투아의 후임자 문도 데포르티보를 계획하고 있다.",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFBtV1JTaEh1c2IwaXNxazhWR1lia2xLd3dLbVJzM0c3bzNkV3ZBRmFfS24yZDA1Nk5ldjRsc0xkN2h DNjZsTjBRcWxCQTh0LWh4Z3ZWR09jc0FrSjRFS25sdm5fMGdsZzlVVzdKZHJVQVBpQjNU TlBmcHpIdm5UN0ZtX0VxYXFaQlFFb2pDVmlQNTJ0T2JzS2FGSmRiWXdxNWZkc1JfWVVsaj",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFBtV1JTaEh1c2IwaXNxazhWR1lia2xLd3dLbVJzM0c3bzNkV3ZBRmFfS24yZDA1Nk5ldjRsc0xkN2hDNjZsTjBRcWxCQTh0LWh4Z3ZWR09jc0FrSjRFS25sdm5fMGdsZzlVVzdKZHJVQVBpQjNUTlBmcHpIdm5UN0ZtX0VxYXFaQlFFb2pDVmlQNTJ0T2JzS2FGSmRiWXdxNWZkc1JfWVVsajZxa3VtQWl5aWRBS18yWGhDedIBvAFBVV95cUxQTFBtV1JTaEh1c2IwaXNxazhWR1lia2xLd3dLbVJzM0c3bzNkV3ZBRmFfS24yZDA1Nk5ldjRsc0xkN2hDNjZsTjBRcWxCQTh0LWh4Z3ZWR09jc0FrSjRFS25sdm5fMGdsZzlVVzdKZHJVQVBpQjNUTlBmcHpIdm5UN0ZtX0VxYXFaQlFFb2pDVmlQNTJ0T2JzS2FGSmRiWXdxNWZkc1JfWVVsajZxa3VtQWl5aWRBS18yWGhDeQ?oc=5",
+    "publishedAt": "2026-07-07T10:52:56.000Z"
+  },
+  {
+    "journalist": "moretto",
+    "club": "realmadrid",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Relevo",
+    "titleKo": "레알 베티스, 레알 마드리드에서 추방당한 프란 가르시아 영입 위해 접촉 강화 - 보고서 - tribuna.com",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcENPTEdlNnJ6YmZIN3I3c21mWjczcWtheHRFNUFZalRnc2ZzbVJaWlhoY0tRUG0yMkVvUTlQdjhYTHR hSDRJdkU5SzF0aW94TEo4WHZaRnlxWmVUUF9Lc2EyTjNqUGc2bXV0YVJVSjlKZzgtUWVi RU1xQlBvXzFLdEVqUTdxZGNWZnBiNVdETXBuaUV2SzZXZU1ibTFiTEZLNWxGQnJVRTlLa0",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcENPTEdlNnJ6YmZIN3I3c21mWjczcWtheHRFNUFZalRnc2ZzbVJaWlhoY0tRUG0yMkVvUTlQdjhYTHRhSDRJdkU5SzF0aW94TEo4WHZaRnlxWmVUUF9Lc2EyTjNqUGc2bXV0YVJVSjlKZzgtUWViRU1xQlBvXzFLdEVqUTdxZGNWZnBiNVdETXBuaUV2SzZXZU1ibTFiTEZLNWxGQnJVRTlLa0J4TFY5NUQxRUhwa19Cd1ZjaFZR0gG-AUFVX3lxTE9wQ09MR2U2cnpiZkg3cjdzbWZaNzNxa2F4dEU1QVlqVGdzZnNtUlpaWGhjS1FQbTIyRW9ROVB2OFhMdGFINEl2RTlLMXRpb3hMSjhYdlpGeXFaZVRQX0tzYTJOM2pQZzZtdXRhUlVKOUpnOC1RZWJFTXFCUG9fMUt0RWpRN3FkY1ZmcGI1V0RNcG5pRXZLNldlTWJtMWJMRks1bEZCclVFOUtrQnhMVjk1RDFFSHBrX0J3VmNoVlE?oc=5",
+    "publishedAt": "2026-07-07T10:52:00.000Z"
+  },
+  {
+    "journalist": "mundodeportivo",
+    "club": "barcelona",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Mundo Deportivo",
+    "titleKo": "라피냐, 바르셀로나 복귀 전 긴장 풀고 - 문도 데포르티보",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDhIWjRZN2FxZGxlckxmM3RxOVBraUk5R2hBUERNWmZVeWxTeU1OZVptdlhTVTdLSWJlck1MN2pQT0J zdFdHMHExejlONGxLSkhndnVTM240UzZuSTRMWDhaWWkxWjB1YnVxcUdsTFgzMkRmNmRJUFJ1N0Zrazc5bVZORTYxUE1JcnRiWmlHRHpGNl80N3ZMZ0lVRm5sX0ZpQ1h3MmtnSXY1TE",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDhIWjRZN2FxZGxlckxmM3RxOVBraUk5R2hBUERNWmZVeWxTeU1OZVptdlhTVTdLSWJlck1MN2pQT0JzdFdHMHExejlONGxLSkhndnVTM240UzZuSTRMWDhaWWkxWjB1YnVxcUdsTFgzMkRmNmRJUFJ1N0Zrazc5bVZORTYxUE1JcnRiWmlHRHpGNl80N3ZMZ0lVRm5sX0ZpQ1h3MmtnSXY1TERqR2JvUnVnVVN0dW9E0gG4AUFVX3lxTE1sOEhaNFk3YXFkbGVyTGYzdHE5UGtpSTlHaEFQRE1aZlV5bFN5TU5lWm12WFNVN0tJYmVyTUw3alBPQnN0V0cwcTF6OU40bEtKSGd2dVMzbjRTNm5JNExYOFpZaTFaMHVidXFxR2xMWDMyRGY2ZElQUnU3RmtrNzltVk5FNjFQTUlydGJaaUdEekY2XzQ3dkxnSVVGbmxfRmlDWHcya2dJdjVMRGpHYm9SdWdVU3R1b0Q?oc=5",
+    "publishedAt": "2026-07-07T10:50:36.000Z"
+  },
+  {
+    "journalist": "dimarzio",
+    "club": "leeds",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "Sky Sport Italia",
+    "titleKo": "월드컵 반전이 어떻게 갑자기 리즈 유나이티드의 골키퍼 루카스 페리를 매장 윈도우에 등장하게 되었는지 - leedsunited.news",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0dDUjN1UzdJZXA5clJURHdNV0h5UHVwcHVwMmlmLUE5S0EzRm9KQmJ4WE1rd0NjZzdaZXQxcDdBaWQ twGh1bzNvZmNUM00xUGZUOEY0ZWYyM2xHWklGUGVHaTdRazRCTkxvYTJxWEhFR1VpdUZYeURuUmxTQ0dzVk4xazdlM3dpZmFCMFAtcWp5ekFMWVROTVNXX3ExMWtXT0lrY1ZYSTRQaz",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0dDUjN1UzdJZXA5clJURHdNV0h5UHVwcHVwMmlmLUE5S0EzRm9KQmJ4WE1rd0NjZzdaZXQxcDdBaWQtWGh1bzNvZmNUM00xUGZUOEY0ZWYyM2xHWklGUGVHaTdRazRCTkxvYTJxWEhFR1VpdUZYeURuUmxTQ0dzVk4xazdlM3dpZmFCMFAtcWp5ekFMWVROTVNXX3ExMWtXT0lrY1ZYSTRQazg5blNvNW9fQkw3Um5aMTlPUjl2Yi1EME9yTGpvYQ?oc=5",
+    "publishedAt": "2026-07-07T10:48:53.000Z"
+  },
+  {
+    "journalist": "as",
+    "club": "chelsea",
+    "date": "2026-07-07",
+    "sourceType": "article",
+    "outlet": "AS",
+    "titleKo": "프리미어리그를 뒤흔든 첼시 조항 - Diario AS",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXNvZTA4U2J4Um5wVEtNRU1pZ2tRQUN5bjVZRWQxUW1ZUTJWYzNiU3NaZEhpOFl0NnNwSGVXWGxTWDV JQXJ1Mi1fOWRIUDI2ZFN6eGx3T0ZtaWZobjB1M1lEa0pvWGxqUkhkNXVRTUE4d0Q0Z0Fs VjJNN1NhUExNRjNJMDYxN2tNbzNjcdIBoAFBVV95cUxOSGhoS0xUXzNsSGpwcXN1VTM2OE",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXNvZTA4U2J4Um5wVEtNRU1pZ2tRQUN5bjVZRWQxUW1ZUTJWYzNiU3NaZEhpOFl0NnNwSGVXWGxTWDVJQXJ1Mi1fOWRiUDI2ZFN6eGx3T0ZtaWZobjB1M1lEa0pvWGxqUkhkNXVRTUE4d0Q0Z0FsVjJNN1NhUExNRjNJMDYxN2tNbzNjcdIBoAFBVV95cUxOSGhoS0xUXzNsSGpwcXN1VTM2OE03cmR2bmo5TnFmN0N4YzdRQnNVUnhmRloxbFdqbkNDRjlTek9pOURjOHZ2eWZUNGRRajUwVHhVS3lvRzdMS3gzWG1BeS1GWlpBTF9vVmJmU3NGcjl6UWdnbnlyVURWU2l2MUFud2pkbmgyWGk0c1lydnJlWEUyd2ZjVnk2ME05SFNzYmtv?oc=5",
+    "publishedAt": "2026-07-07T10:47:15.000Z"
   }
 ]
