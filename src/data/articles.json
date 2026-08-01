@@ -170510,5 +170510,64 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEFjTF8tUDhKeDFXZ2lUVU04ZzVhY3Q0QlpGNlYzQndvV24zZFBmRGxINXBweW9SUzF6TmhhVm9HNkF aWGtBVXBUX1pCaDJuRVRIUTd0ekhIeTVQRjFZc0NnbWtQS294dWpDZU1vbGhPVEdSX1V2 RFlWdEg3T1d3Rjd6cFVZWWhjQTFPVk1QT05iV1VhRVcwZ2FwYnBlZV80OHNUbzd4M3VPNT",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEFjTF8tUDhKeDFXZ2lUVU04ZzVhY3Q0QlpGNlYzQndvV24zZFBmRGxINXBweW9SUzF6TmhhVm9HNkFaWGtBVXBUX1pCaDJuRVRIUTd0ekhIeTVQRjFZc0NnbWtQS294dWpDZU1vbGhPVEdSX1V2RFlWdEg3T1d3Rjd6cFVZWWhjQTFPVk1QT05iV1VhRVcwZ2FwYnBlZV80OHNUbzd4M3VPNTh6ZlJkc19HeHlfUHZHMkhXNmJiUnlWZ0tjd1Bz?oc=5",
     "publishedAt": "2026-08-01T19:31:05.000Z"
+  },
+  {
+    "journalist": "skysports",
+    "club": "manutd",
+    "date": "2026-08-01",
+    "sourceType": "article",
+    "outlet": "Sky Sports",
+    "titleKo": "논문: 맨유는 아스날의 루이스-스켈리 영입을 고려하고 있다",
+    "summaryKo": "일요 신문의 주요 기사와 이적 루머...",
+    "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+    "publishedAt": "2026-08-01T22:29:38.027Z",
+    "imageUrl": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg"
+  },
+  {
+    "journalist": "skysports",
+    "club": "arsenal",
+    "date": "2026-08-01",
+    "sourceType": "article",
+    "outlet": "Sky Sports",
+    "titleKo": "논문: 맨유는 아스날의 루이스-스켈리 영입을 고려하고 있다",
+    "summaryKo": "일요 신문의 주요 기사와 이적 루머...",
+    "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+    "publishedAt": "2026-08-01T22:29:38.027Z",
+    "imageUrl": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg"
+  },
+  {
+    "journalist": "thesun",
+    "club": "chelsea",
+    "date": "2026-08-01",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "사비 알론소는 4년간의 도핑 금지 기간이 단축된 후 미카일로 무드릭이 첼시로 돌아온 것을 환영하지만 블루스의 미래가 불확실하다고 인정했습니다.",
+    "summaryKo": "XABI ALONSO는 도핑 금지 조치가 끝난 후 Mykhailo Mudryk을 두 팔 벌려 환영할 준비가 되어 있습니다. 25세의 첼시 윙어는 FA와 세계반도핑기구(WDA)가 항소 후 그에 대한 징계 절차를 해결한 후 이번 주에 그의 4년 출전 금지가 단축되었습니다. 진흙",
+    "url": "https://www.thesun.co.uk/sport/39940563/chelsea-mykhailo-mudryk-xabi-alonso/",
+    "publishedAt": "2026-08-01T22:13:44.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-MUDRYK-ALONSO.jpg"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "arsenal",
+    "date": "2026-08-01",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "미켈 아르테타는 아스날이 비니시우스 주니어 계약을 포기하지 않는 이적시장에서 아스날이 '매우 야심적'일 것이라고 주장했다.",
+    "summaryKo": "GIRONA의 ISAAN KHAN: 26세의 윙어는 미켈 아르테타가 자신의 최전방을 강화하려고 함에 따라 북런던으로의 이적과 강하게 연결되고 있습니다.",
+    "url": "https://www.dailymail.com/sport/football/article-16022311/mikel-arteta-vincius-junior-ambitious-arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-08-01T22:06:54.000Z"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "arsenal",
+    "date": "2026-08-01",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "Mikel Arteta는 Julian Alvarez 스왑 딜 주장 이후 Viktor Gyokeres의 이적 결정을 최종적으로 결정했습니다.",
+    "summaryKo": "빅토르 교케레스는 줄리안 알바레즈 스왑 딜의 일환으로 아스날과 연결됐고 미켈 아르테타는 이제 전자의 미래에 대해 자신의 발언을 했습니다.",
+    "url": "https://www.football.london/arsenal-fc/transfer-news/viktor-gyokeres-arteta-arsenal-alvarez-34390770",
+    "publishedAt": "2026-08-01T21:43:18.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34390807.ece/ALTERNATES/s1200d/0_Gyokeres.jpg"
   }
 ]
