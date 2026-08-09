@@ -174979,5 +174979,99 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE43Sk5yZUtJUllxek13TS1vMDduSUo1V DVtTkZLY2J3UXFYVGFWRVpCSnZVRUF0QzkxM3FDcUFRUGJlRmtpMGZBUldTaVBDdTYybGF4aUZfZHhpZ28?oc=5\" target=\"_blank\">바르콜라가 리버풀과 맨유로 이적했습니다. 코네를 거부하세요🤔기마랑이스에서 아스날로 DONE✍️ 프라다 광장",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43Sk5yZUtJUllxek13TS1vMDduSUo1VDVtTkZLY2J3UXFYVGFWRVpCSnZVRUF0QzkxM3FDcUFRUGJlRmtpMGZBUldTaVBDdTYybGF4aUZfZHhpZ28?oc=5",
     "publishedAt": "2026-08-08T14:48:27.000Z"
+  },
+  {
+    "journalist": "skysports",
+    "club": "arsenal",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "Sky Sports",
+    "titleKo": "아스날 vs 도르트문트 LIVE!",
+    "summaryKo": "아스날 vs 도르트문트 LIVE!",
+    "url": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog",
+    "publishedAt": "2026-08-09T11:47:11.417Z",
+    "imageUrl": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-dortmund_7317432.jpg"
+  },
+  {
+    "journalist": "skysports",
+    "club": "dortmund",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "Sky Sports",
+    "titleKo": "아스날 vs 도르트문트 LIVE!",
+    "summaryKo": "아스날 vs 도르트문트 LIVE!",
+    "url": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog",
+    "publishedAt": "2026-08-09T11:47:11.417Z",
+    "imageUrl": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-dortmund_7317432.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "arsenal",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "아스날 대 보루시아 도르트문트 LIVE: 킥오프 시간, TV 채널, 팀 뉴스, 라이브 스트림 세부 정보",
+    "summaryKo": "football.london은 에미레이츠 스타디움에서 열린 프리시즌 친선경기 아스날과 보루시아 도르트문트의 경기를 생중계했습니다.",
+    "url": "https://www.football.london/arsenal-fc/fixtures-results/arsenal-vs-borussia-dortmund-live-34428540",
+    "publishedAt": "2026-08-09T11:41:47.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34428529.ece/ALTERNATES/s1200d/0_Arsenal-vs-Borussia-Dortmund-Live-Blog.png"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "dortmund",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "아스날 대 보루시아 도르트문트 LIVE: 킥오프 시간, TV 채널, 팀 뉴스, 라이브 스트림 세부 정보",
+    "summaryKo": "football.london은 에미레이츠 스타디움에서 열린 프리시즌 친선경기 아스날과 보루시아 도르트문트의 경기를 생중계했습니다.",
+    "url": "https://www.football.london/arsenal-fc/fixtures-results/arsenal-vs-borussia-dortmund-live-34428540",
+    "publishedAt": "2026-08-09T11:41:47.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34428529.ece/ALTERNATES/s1200d/0_Arsenal-vs-Borussia-Dortmund-Live-Blog.png"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "manutd",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "마커스 래쉬포드는 마지막 출전 이후 거의 2년 만에 맨유로 돌아왔습니다. 추방된 붉은 악마의 스타는 마이클 캐릭의 선수단과 연결을 준비하고 있습니다.",
+    "summaryKo": "28세의 래시포드는 아카데미를 졸업한 후 맨유에서 426경기에 출전했지만 루벤 아모림과의 결별 이후 클럽에서의 그의 경력은 끝난 것처럼 보였다.",
+    "url": "https://www.dailymail.com/sport/football/article-16039649/Marcus-Rashford-returns-Man-United-nearly-TWO-years-appearance-exiled-Red-Devils-star-prepares-link-Michael-Carricks-squad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-08-09T11:40:21.000Z"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "liverpool",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "리버풀 대 모나코 LIVE - 팀 뉴스, TV 채널, 킥오프 시간, 점수 및 해설 스트림",
+    "summaryKo": "안도니 이라올라 신임 감독이 처음으로 홈 경기를 맡으면서 안필드에서 열리는 리버풀과 모나코의 프리시즌 친선 경기를 생중계했다.",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-monaco-live-stream-score-34428754",
+    "publishedAt": "2026-08-09T11:40:14.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34428759.ece/ALTERNATES/s1200d/0_ChatGPT-Image-Aug-9-2026-07_32_56-AM.png"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "manutd",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "'나는 많은 사람들을 실망시켰다': 전 맨유 스타 브랜든 윌리엄스는 위험한 운전과 아산화질소 사용 혐의로 14개월의 징역형을 선고받았다.",
+    "summaryKo": "전 맨체스터 유나이티드 스타 브랜든 윌리엄스는 3년 전 과속 교통사고로 인해 14개월의 징역형을 선고받았던 사건에 대해 털어놨습니다.",
+    "url": "https://www.dailymail.com/sport/football/article-16039623/Ive-let-lot-people-Former-Man-United-star-Brandon-Williams-opens-14-month-suspended-prison-sentence-dangerous-driving-use-nitrous-oxide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-08-09T11:36:07.000Z"
+  },
+  {
+    "journalist": "thesun",
+    "club": "arsenal",
+    "date": "2026-08-09",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "전 아스날 스타의 아들(14세)은 프랑스와의 전투에서 승리하기 위해 FA로 잉글랜드 U15에 합류했습니다.",
+    "summaryKo": "전 아스날 스타의 아들이 영국 15세 이하 대표팀에서 뛰도록 선발되었습니다. FA는 그의 충성심을 위해 프랑스와 경쟁을 벌이고 있습니다. Jeremie Aliadiere는 거너스에서 8년을 보냈습니다. 그는 유소년 시스템을 거쳐 아르센 벵거 밑에서 1군에서 51경기를 뛰었습니다.",
+    "url": "https://www.thesun.co.uk/sport/40008007/arsenal-stars-son-england-u15-s-battle-france/",
+    "publishedAt": "2026-08-09T11:18:35.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/08/RAS-OP-LEO-ALIADIERE.jpg"
   }
 ]
