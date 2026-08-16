@@ -184471,5 +184471,41 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBxNnZwS0RUSmpLamxSOWhfTUNweU0ydWxQNHRjUFhjU2VaN lMxZ2hRYi1tQTR1ODF4WnhnQVNvb3FDSjRpQVBsRXRZVnFTaVk2OHBnQjdnQ2U5bGJoU3pjMVpaRTFWUlJkaUlWclNiOThkSlU?oc=5\" target=\"_blank\">아마르 데디 근처 뉴캐슬, 벤피카와 협상 중",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxNnZwS0RUSmpLamxSOWhfTUNweU0ydWxQNHRjUFhjU2VaNlMxZ2hRYi1tQTR1ODF4WnhnQVNvb3FDSjRpQVBsRXRZVnFTaVk2OHBnQjdnQ2U5bGJoU3pjMVpaRTFWUlJkaUlWclNiOThkSlU?oc=5",
     "publishedAt": "2026-08-15T12:36:50.000Z"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "liverpool",
+    "date": "2026-08-16",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "Victor Munoz와 Ronald Araujo의 결정에 따라 리버풀 라인업 대 Como",
+    "summaryKo": "ECHO의 리버풀 작가들은 여름 기간의 마지막 프리시즌 친선 경기인 안필드에서 열리는 코모와의 오후 6시 킥오프를 위해 팀을 선택합니다.",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-line-ups-vs-como-34465175",
+    "publishedAt": "2026-08-16T06:00:00.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34447840.ece/ALTERNATES/s1200d/1_GettyImages-2289891423.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "mancity",
+    "date": "2026-08-16",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "아스날과 맨시티의 수치스러운 결정으로 커뮤니티 쉴드가 무료 방송에서 제외되었습니다.",
+    "summaryKo": "전국 수백만 명의 축구 팬은 경기가 유료화 장벽으로 잠겨 있기 때문에 Community Shield에서 아스날과 맨체스터 시티의 경기를 시청할 수 없습니다.",
+    "url": "https://www.football.london/arsenal-fc/news/community-shield-removed-free-air-34446081",
+    "publishedAt": "2026-08-16T06:00:00.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34441476.ece/ALTERNATES/s1200d/1_Community-Shield.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "arsenal",
+    "date": "2026-08-16",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "아스날과 맨시티의 수치스러운 결정으로 커뮤니티 쉴드가 무료 방송에서 제외되었습니다.",
+    "summaryKo": "전국 수백만 명의 축구 팬은 경기가 유료화 장벽으로 잠겨 있기 때문에 Community Shield에서 아스날과 맨체스터 시티의 경기를 시청할 수 없습니다.",
+    "url": "https://www.football.london/arsenal-fc/news/community-shield-removed-free-air-34446081",
+    "publishedAt": "2026-08-16T06:00:00.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34441476.ece/ALTERNATES/s1200d/1_Community-Shield.jpg"
   }
 ]
