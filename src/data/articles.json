@@ -195104,5 +195104,132 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFk3MHVidDZkeVJkUEJYSFlpbzZLOTFtVEJiaWdMTVJNWVJvcUNuaUFxMFRMNWlYZENuMDZ DUDJPYnh1SlphTWdFOVdFZS01T3RyVUc2aEtBdld2OURQUUJFempDUUNOYzNZMmJCTV8xVnBJQ05ZNDg5WWhQQTRCYWRYY2VScU5lUzFYeFhyREY3c2JpeV95a1lR?oc=5\" 타겟=\"_공백\"",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFk3MHVidDZkeVJkUEJYSFlpbzZLOTFtVEJiaWdMTVJNWVJvcUNuaUFxMFRMNWlYZENuMDZDUDJPYnh1SlphTWdFOVdFZS01T3RyVUc2aEtBdld2OURQUUJFempDUUNOYzNZMmJCTV8xVnBJQ05ZNDg5WWhQQTRCYWRYY2VScU5lUzFYeFhyREY3c2JpeV95a1lR?oc=5",
     "publishedAt": "2026-08-21T17:00:02.000Z"
+  },
+  {
+    "journalist": "men",
+    "club": "manutd",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "MEN",
+    "titleKo": "Hull vs Manchester United LIVE 초기 팀 뉴스와 부상 업데이트 및 시청 방법",
+    "summaryKo": "맨유는 오늘 오후 새롭게 승격된 헐시티로 원정을 떠나 프리미어리그 경기에 복귀했습니다.",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/hull-vs-manchester-united-live-34489613",
+    "publishedAt": "2026-08-22T08:35:09.000Z",
+    "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/article34489617.ece/ALTERNATES/s1200d/1_image-3.png"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "arsenal",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "터키 언론은 갈라타사라이의 영웅적 활약 이후 아스날에게 빅토르 오시멘의 이적 메시지를 보냈습니다.",
+    "summaryKo": "빅터 오시멘은 금요일 갈라타사라이에서 좋은 컨디션을 유지했고 아스날은 계속해서 공격수에 대한 급습을 시도했습니다.",
+    "url": "https://www.football.london/arsenal-fc/news/turkish-media-send-arsenal-clear-34500410",
+    "publishedAt": "2026-08-22T08:33:07.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34500476.ece/ALTERNATES/s1200d/0_GettyImages-2290820688.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "arsenal",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "아스날은 '챔피언스리그와 프리미어리그 타이틀을 떠나는 계약자' 게리 네빌을 인정했다.",
+    "summaryKo": "아스날은 이미 이번 여름 미켈 아르테타의 스쿼드를 강화했지만 추가 영입을 노리고 있습니다.",
+    "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-julian-alvarez-transfer-atletico-34500580",
+    "publishedAt": "2026-08-22T08:31:09.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34500596.ece/ALTERNATES/s1200d/0_JS415448466.jpg"
+  },
+  {
+    "journalist": "thesun",
+    "club": "chelsea",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "첼시 이적 시장에서 깜짝 키 계약이 내려졌고 블루스는 데드우드로 이동해야 한다는 판결을 받았습니다.",
+    "summaryKo": "첼시는 이적과 이적으로 가득한 창을 즐겼지만 여전히 부풀어 오른 선수단을 처리하기 위해 더 많은 일을 해야 합니다. 영국 기록적인 금액으로 모건 로저스를 영입한 것은 의도를 표현한 것이며 사비 알론소의 팀에 다재다능하고 치명적인 선수를 선사합니다. 조르드를 위한 움직임",
+    "url": "https://www.thesun.co.uk/sport/40134488/chelsea-transfer-window-verdict-signing-rogers-henderson/",
+    "publishedAt": "2026-08-22T08:24:04.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/08/tp-Chelsea-transfer-window-2108_OP.jpg"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "liverpool",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "리버풀은 지난 시즌 거부되었던 꿈을 양쿠바 민테에게 허락할 수 있습니다",
+    "summaryKo": "양쿠바 민테는 안필드로 이적이 성사된다면 리버풀에서 자신의 꿈이 실현되는 것을 볼 수 있을 것입니다.",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-yankuba-minteh-transfer-brighton-34498341",
+    "publishedAt": "2026-08-22T08:20:56.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34500603.ece/ALTERNATES/s1200d/0_Brighton-Hove-Albion-FC-v-Chelsea-FC-Premier-League.jpg"
+  },
+  {
+    "journalist": "men",
+    "club": "manutd",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "MEN",
+    "titleKo": "3개의 이적 목표를 놓친 후 로이 킨의 가장 큰 맨유 위험 신호",
+    "summaryKo": "맨체스터 유나이티드의 전설 로이 킨이 마이클 캐릭의 팀이 새로운 프리미어 리그 시즌에 어떻게 적응하고 있는지에 대해 말했습니다.",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-keane-34500427",
+    "publishedAt": "2026-08-22T08:13:54.000Z",
+    "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/article34500480.ece/ALTERNATES/s1200d/0_Screenshot-2026-08-22-083035.png"
+  },
+  {
+    "journalist": "wire",
+    "club": "arsenal",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "기타 종합",
+    "titleKo": "이안 라이트, 원치 않는 스타에 대한 잔혹한 처우에 대해 아스날 비난 - '불편함' - Daily Mirror",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0cwa0tkMngwQ1RCQVRCa3pja0pESFZWa2MwSF9DcHdQZ21lZGZ0c3g3U25FQll1dHdhRkQzc21jZXR OQWVtUEJCT3Y4Wjc2QVNOOWpWVzdRU2cxVGtyRVpwNGRKZERmYnlHeTA2Z0pyazBJNEp5cnhpdDM3UnZZb0xLT1Zsa3ZKZ1pFcjUxaURYM2RkYXphR0EwY0rSAaIBQVVfeXFMT09taz",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0cwa0tkMngwQ1RCQVRCa3pja0pESFZWa2MwSF9DcHdQZ21lZGZ0c3g3U25FQll1dHdhRkQzc21jZXROQWVtUEJCT3Y4Wjc2QVNOOWpWVzdRU2cxVGtyRVpwNGRKZERmYnlHeTA2Z0pyazBJNEp5cnhpdDM3UnZZb0xLT1Zsa3ZKZ1pFcjUxaURYM2RkYXphR0EwY0rSAaIBQVVfeXFMT09tazMzbUZHbTVDcGd1VFEtX0djNXRSUFdDSDZPRFV4cTJoZF9hazBEQlBONWlMTS1YbDFSaUJyNWx2NHZmRUpZSURPMlNtUjZkOFdETkVhN0hnNlJWdkxKTTRRR3JKOWFXOHFxLVp3TW52bVpvUTI5TXBhQTJ1WWxxZmNUT3VMb2c0eWN2MDhVLTVORHFkd000NnE2ajBEMmxR?oc=5",
+    "publishedAt": "2026-08-22T08:10:00.000Z"
+  },
+  {
+    "journalist": "romano",
+    "club": "roma",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "독립 (X / YouTube)",
+    "titleKo": "파브리치오 로마노: 알바레즈 긴장감, 발레바 완성, 각포 최근 - footballtransfers.com",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1hwUDVHVlE1dlFZeHBlTENYUzUxYzNhbXh4andoQnByVkNyOS1WOVRQdXhvLTVpU1Z4MHlCYzZzSEh hdHhsQ2RLa1FTRWZXV1h5ZjhrOXg1N2NzZUt4NDVpS0U1dWRudWJjdXM2UTgyWlNGNE5NcjRGcEJHdEFTcFpDdjl0S0dZUV9SN0VzRkw1TEgxVzhHbGJFVVE0OWlqOTVLY3lvRHpQMU",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1hwUDVHVlE1dlFZeHBlTENYUzUxYzNhbXh4andoQnByVkNyOS1WOVRQdXhvLTVpU1Z4MHlCYzZzSEhhdHhsQ2RLa1FTRWZXV1h5ZjhrOXg1N2NzZUt4NDVpS0U1dWRudWJjdXM2UTgyWlNGNE5NcjRGcEJHdEFTcFpDdjl0S0dZUV9SN0VzRkw1TEgxVzhHbGJFVVE0OWlqOTVLY3lvRHpQMUhvaW9IRXF5SDV5NzZnWktucEhVVzloOFRVMHlueTBjbEQ?oc=5",
+    "publishedAt": "2026-08-22T08:04:00.000Z"
+  },
+  {
+    "journalist": "mundodeportivo",
+    "club": "barcelona",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "Mundo Deportivo",
+    "titleKo": "바르셀로나는 미드필더 토미 마르케스를 브라가로 이적시켰습니다 - 문도 데포르티보",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1Zidks5dWdaTHh1Zm9haHE3VUY0cFhjUFFUMWo3VTR2VHhCVVZZdTJleGM4UlJ1b2JldnZSY3lHaWJ ldm5BbeNuNUhKZEE5ZnlxR3E2c0M0MHdXMEFNNDgzenZueU1VWk9SMW8zYlltdW9rdEpo cWx1Q21nNlJKeTBmc1d2ZU5Lb2NIdmVkSUY5WmkyUzlzb2hhTjRsM2FSSV9mZlRkclM2S2",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1Zidks5dWdaTHh1Zm9haHE3VUY0cFhjUFFUMWo3VTR2VHhCVVZZdTJleGM4UlJ1b2JldnZSY3lHaWJldm5BbENuNUhKZEE5ZnlxR3E2c0M0MHdXMEFNNDgzenZueU1VWk9SMW8zYlltdW9rdEpocWx1Q21nNlJKeTBmc1d2ZU5Lb2NIdmVkSUY5WmkyUzlzb2hhTjRsM2FSSV9mZlRkclM2S2g3YkF2aGgtOUUtZnpvV0HSAccBQVVfeXFMTTBDR1BRM2JsSEtFWWRCay1xMEZNNWo2Q0NjeUJNV204czk2dFJxWGhhZTNaV080a1Q1N2lvT2JfQzFaYm5oWGxKXzNVWGFjb3I3dFpTcnZGeGFQQmhocEhGZ2M1OUowbGlUU1pDeTltNFVQU3Q1MjlmR0tFc19ZcVRzWUJjSHE4UnhaOEdLSVVoZXNBUTBHM1dMMnJPSTJQQ0c2N1BMQ3JEZmpMTGZsY2ZqUndmVmE5VE1IXzV6YkpYQkJ6Y2RzNA?oc=5",
+    "publishedAt": "2026-08-22T07:38:10.000Z"
+  },
+  {
+    "journalist": "sport",
+    "club": "barcelona",
+    "date": "2026-08-21",
+    "sourceType": "article",
+    "outlet": "SPORT",
+    "titleKo": "Barça는 Hamza가 포워드 라인의 진정한 옵션이라고 믿습니다 - SPORT",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGdmS3I3eHJWUWZxbmNXRjVCSlBxWHVQTHlsX3NjTGp4OUIxbFJwZnB5YjFHRGFTVkdRV2V3NkRydmd PdXMtYkJPd1NNN2g1R2FlclNXOW5EcDVkUEJZTHhWMG5sdENYeGtwelB3TEhNVGxfMkhtMzJBRlBCREVGUFBpQdIBgwFBVV95cUxQMHFhWGlVa0VDeGRJd3E3NkZIQTBDdEl6NupLZV",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGdmS3I3eHJWUWZxbmNXRjVCSlBxWHVQTHlsX3NjTGp4OUIxbFJwZnB5YjFHRGFTVkdRV2V3NkRydmdPdXMtYkJPd1NNN2g1R2FlclNXOW5EcDVkUEJZTHhWMG5sdENYeGtwelB3TEhNVGxfMkhtMzJBRlBCREVGUFBpQdIBgwFBVV95cUxQMHFhWGlVa0VDeGRJd3E3NkZIQTBDdEl6NUpLZVU4WWM3N3lZQW8xUmF2R2gtUHU0Z2FzOTZLLXNBNlIzY0tSZUM4SUlsQzdqSmpzNno3eGZtZmxsQ3JJcDI3ektGYVpSZ2pEcnJXa05NSzB1UU9yOXNhQ0YzUFc4dkU0NA?oc=5",
+    "publishedAt": "2026-08-21T20:24:41.000Z"
+  },
+  {
+    "journalist": "wire",
+    "club": "manutd",
+    "date": "2026-08-21",
+    "sourceType": "article",
+    "outlet": "기타 종합",
+    "titleKo": "Hibs는 Red Devils의 공격으로 Old Trafford의 재능을 놓고 맨체스터 유나이티드와 이적 협상을 벌였습니다. - Edinburgh News",
+    "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzhLQkNtZDZmcFREQUNSZ0JaNHR3VVFIaXhuRlNsMmlNd3FQOGRsMkpuMlNwTlFwTktqU3k1OUViQ09 nYl82VnkzZDZHLUNib2VwOGFYZnlzVW55a29EV2pSVG5SalhGN3p2a3NEV2xxWTdjak9OSWlaSTBHZ3lHeG1wd3hTT2prYktldWQxUDNhR3VhYmtSeWRuV1NhU1BSNnZkMXBUQVFKUn",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzhLQkNtZDZmcFREQUNSZ0JaNHR3VVFIaXhuRlNsMmlNd3FQOGRsMkpuMlNwTlFwTktqU3k1OUViQ09nYl82VnkzZDZHLUNib2VwOGFYZnlzVW55a29EV2pSVG5SalhGN3p2a3NEV2xxWTdjak9OSWlaSTBHZ3lHeG1wd3hTT2prYktldWQxUDNhR3VhYmtSeWRuV1NhU1BSNnZkMXBUQVFKUndDejdnOVotVDlsZG9MeHpybUhSaWhGSXltZWtlb1NMekh6azg1TF9n?oc=5",
+    "publishedAt": "2026-08-21T16:20:00.000Z"
   }
 ]
