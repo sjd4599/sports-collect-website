@@ -194561,5 +194561,77 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZW mptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw?oc=5\" target=\"_blank\">남자",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw?oc=5",
     "publishedAt": "2026-08-22T05:19:20.000Z"
+  },
+  {
+    "journalist": "thesun",
+    "club": "manutd",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "헐 vs 맨유 | 토요일 점심 시간 충돌에 대한 프리미어 리그 예측, 미리보기 및 무료 베팅",
+    "summaryKo": "MANCHESTER UNITED는 토요일 초반 경기에서 새로운 소년 Hull을 상대로 프리미어리그 캠페인을 시작합니다. SunSport의 베팅 전문가들은 대규모 이벤트를 미리 살펴보고 주요 북메이커 파트너로부터 최고의 베팅 팁, 승률 및 독점 가입 보너스를 선택했습니다.",
+    "url": "https://www.thesun.co.uk/sport/40105916/hull-vs-man-utd-premier-league-predictions-free-bets/",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/08/MR-19_08-BETTING-PREVIEW-HULL-VS-MAN-UTD_OP.jpg"
+  },
+  {
+    "journalist": "men",
+    "club": "manutd",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "MEN",
+    "titleKo": "맨유와 시티 팬들은 £35의 프리미어 리그 2026 강림 달력을 £15에 구매합니다.",
+    "summaryKo": "2026/27 Premier League 시즌이 이번 주말에 시작됩니다. 모든 팀의 팬들을 축하하기 위해 올해 공식 강림절 달력을 대폭 할인된 가격으로 받아보실 수 있습니다.",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-city-fans-snap-34482797",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/article34482883.ece/ALTERNATES/s1200d/1_Untitled-August-17-2026-at-163919-4jpeg.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "chelsea",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "Chelsea 이적 뉴스 LIVE: Conceicao 관심, Mudryk 업데이트 및 Enzo Fernandez 최신",
+    "summaryKo": "첼시는 여름 이적시장이 닫히면서 시간이 점점 다가오고 있는 가운데 이적시장에서 계속 활발하게 활동하고 있다.",
+    "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-transfer-news-live-conceicao-34500348",
+    "publishedAt": "2026-08-22T06:57:03.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34481043.ece/ALTERNATES/s1200d/0_GettyImages-2290051783.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "inter",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "Chelsea 이적 뉴스 LIVE: Conceicao 관심, Mudryk 업데이트 및 Enzo Fernandez 최신",
+    "summaryKo": "첼시는 여름 이적시장이 닫히면서 시간이 점점 다가오고 있는 가운데 이적시장에서 계속 활발하게 활동하고 있다.",
+    "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-transfer-news-live-conceicao-34500348",
+    "publishedAt": "2026-08-22T06:57:03.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34481043.ece/ALTERNATES/s1200d/0_GettyImages-2290051783.jpg"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "tottenham",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "토트넘 이적 뉴스 라이브: 거래 완료, Marmoush 최신, Bergvall 성명",
+    "summaryKo": "토트넘 홋스퍼 이적 업데이트, Roberto De Zerbi의 놀라운 이적 기간",
+    "url": "https://www.football.london/tottenham-hotspur-fc/transfer-news/tottenham-transfer-news-live-done-34500356",
+    "publishedAt": "2026-08-22T06:55:24.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34495950.ece/ALTERNATES/s1200d/0_Manchester-City-v-Atletico-Madrid-Preseason-Friendly.jpg"
+  },
+  {
+    "journalist": "men",
+    "club": "manutd",
+    "date": "2026-08-22",
+    "sourceType": "article",
+    "outlet": "MEN",
+    "titleKo": "맨유를 떠나 헐시티로 이적 - 쉽지 않았지만 후회는 없다",
+    "summaryKo": "맨체스터 유나이티드는 프리미어리그 개막전에서 헐과 맞붙는다.",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-hull-city-brady-34481575",
+    "publishedAt": "2026-08-22T06:30:00.000Z",
+    "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/article34481608.ece/ALTERNATES/s1200d/0_Soccer-Robbie-Brady-File-Photo.jpg"
   }
 ]
