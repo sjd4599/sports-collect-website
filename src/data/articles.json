@@ -195071,5 +195071,53 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2X0JSc0thMUMwMk5XZHh2eHl5XzBsS3JrMXY2ZFEzLWZDcWRHeEVrcGJ5eVo3eGFfd0tPbU44WXY4d1YtLW00eEdYbGY0VW1Pc0NIbENQVzJvRHVQVlFHR3UtRlNJTUE?oc=5\" target=\"_blank\">Newcastle United v Liverpool: Key stats and talking points</a> <font",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2X0JSc0thMUMwMk5XZHh2eHl5XzBsS3JrMXY2ZFEzLWZDcWRHeEVrcGJ5eVo3eGFfd0tPbU44WXY4d1YtLW00eEdYbGY0VW1Pc0NIbENQVzJvRHVQVlFHR3UtRlNJTUE?oc=5",
     "publishedAt": "2026-08-22T12:28:04.000Z"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "liverpool",
+    "date": "2026-08-23",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "Why Graeme Souness left Sky Sports and Liverpool icon's new job after emotional ITV moment",
+    "summaryKo": "Former Liverpool and Newcastle manager Graeme Souness announced his new job after an emotional appearance on ITV",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/graeme-souness-liverpool-newcastle-job-34480946",
+    "publishedAt": "2026-08-23T05:30:00.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34481146.ece/ALTERNATES/s1200d/0_This-Morning-TV-show-London-UK-30-May-2023.jpg"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "newcastle",
+    "date": "2026-08-23",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "Why Graeme Souness left Sky Sports and Liverpool icon's new job after emotional ITV moment",
+    "summaryKo": "Former Liverpool and Newcastle manager Graeme Souness announced his new job after an emotional appearance on ITV",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/graeme-souness-liverpool-newcastle-job-34480946",
+    "publishedAt": "2026-08-23T05:30:00.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34481146.ece/ALTERNATES/s1200d/0_This-Morning-TV-show-London-UK-30-May-2023.jpg"
+  },
+  {
+    "journalist": "men",
+    "club": "manutd",
+    "date": "2026-08-23",
+    "sourceType": "article",
+    "outlet": "MEN",
+    "titleKo": "I was going to join Real Madrid over Man United - but one conversation changed my mind",
+    "summaryKo": "A former Manchester United captain was persuaded to reject Real Madrid in favour of a move to Old Trafford",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-real-madrid-34500712",
+    "publishedAt": "2026-08-23T05:30:00.000Z",
+    "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/article28556672.ece/ALTERNATES/s1200d/0_GettyImages-523540734.jpg"
+  },
+  {
+    "journalist": "men",
+    "club": "realmadrid",
+    "date": "2026-08-23",
+    "sourceType": "article",
+    "outlet": "MEN",
+    "titleKo": "I was going to join Real Madrid over Man United - but one conversation changed my mind",
+    "summaryKo": "A former Manchester United captain was persuaded to reject Real Madrid in favour of a move to Old Trafford",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-real-madrid-34500712",
+    "publishedAt": "2026-08-23T05:30:00.000Z",
+    "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/article28556672.ece/ALTERNATES/s1200d/0_GettyImages-523540734.jpg"
   }
 ]
