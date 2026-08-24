@@ -200197,5 +200197,87 @@
     "summaryKo": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWw3M3hGbG11d0FGYUFjd3FUa3ZNUjNwVFRSbUl0Y1ZxSnVacm5henZoVHpQWVBCbGtUYVJXZXp0LXZsZVNLSlVIdUNHVWFvWHZyM1VhUUFnWl8tLWtZSm9JOGtjdVEzcUFvNXd4elRYeVNsSnpjVVJ5LU9ldTFXcHhzV0TSAYQBQVVfeXFMUGpxdUVIQU9lTHVmYVFPWEQ3ZXVBay1WT3NVWD",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWw3M3hGbG11d0FGYUFjd3FUa3ZNUjNwVFRSbUl0Y1ZxSnVacm5henZoVHpQWVBCbGtUYVJXZXp0LXZsZVNLSlVIdUNHVWFvWHZyM1VhUUFnWl8tLWtZSm9JOGtjdVEzcUFvNXd4elRYeVNsSnpjVVJ5LU9ldTFXcHhzV0TSAYQBQVVfeXFMUGpxdUVIQU9lTHVmYVFPWEQ3ZXVBay1WT3NVWDM4WnNfa1dYUkEyd1ktbzhhSXhXb0Q4YTgwTzBnZUhiandlLXpFRkpSZ3RHZjNBQ0VjOWxJckxMdUZrLXJtaEc3cU1tSEUwaWxzTkFaZWhHbnBIRTJzUDNneXVXaUZQZ1lY?oc=5",
     "publishedAt": "2026-08-24T11:02:20.000Z"
+  },
+  {
+    "journalist": "skysports",
+    "club": "chelsea",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "Sky Sports",
+    "titleKo": "MNF is back! Fulham vs Chelsea LIVE!",
+    "summaryKo": "MNF is back! Fulham vs Chelsea LIVE!",
+    "url": "https://www.skysports.com/football/fulham-vs-chelsea/live/559453",
+    "publishedAt": "2026-08-24T17:24:41.614Z"
+  },
+  {
+    "journalist": "footballlondon",
+    "club": "chelsea",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "football.london",
+    "titleKo": "Fulham v Chelsea LIVE - Premier League kick-off time, early team news, live stream details",
+    "summaryKo": "All of the live updates and action from Craven Cottage as Chelsea manager Xabi Alonso gets his Blues tenure underway with a Premier League clash away at Fulham this evening",
+    "url": "https://www.football.london/chelsea-fc/fixtures-results/fulham-vs-chelsea-live-stream-34494569",
+    "publishedAt": "2026-08-24T17:19:35.000Z",
+    "imageUrl": "https://i2-prod.football.london/article34504118.ece/ALTERNATES/s1200d/0_Fulham-v-Chels.jpg"
+  },
+  {
+    "journalist": "dailymail",
+    "club": "chelsea",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "Daily Mail",
+    "titleKo": "Fulham vs Chelsea - Premier League LIVE: Xabi Alonso kicks off Blues reign with west London derby",
+    "summaryKo": "Follow Daily Mail Sport's live coverage for the latest updates of the west London derby as Fulham take on Chelsea at Craven Cottage in the Premier League.",
+    "url": "https://www.dailymail.com/sport/football/article-16076227/Fulham-vs-Chelsea-Premier-League-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "publishedAt": "2026-08-24T17:15:50.000Z"
+  },
+  {
+    "journalist": "thesun",
+    "club": "mancity",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "Man City &#8216;ready to hijack Tottenham&#8217;s Cody Gakpo transfer&#8217; as Enzo Maresca&#8217;s men &#8216;begin talks&#8217; for Liverpool star",
+    "summaryKo": "MANCHESTER CITY have reportedly made a shock move to beat Tottenham to the signing of Liverpool winger Cody Gakpo. The Sky Blues got their Premier League season off to a winning start as they came from behind beat Bournemouth yesterday. But City boss Enzo Maresca, who was appoint",
+    "url": "https://www.thesun.co.uk/sport/40158050/man-city-ready-hijack-tottenham-transfer-cody-gakpo-liverpool/",
+    "publishedAt": "2026-08-24T16:58:23.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/08/HB-OP-GAKPO.jpg"
+  },
+  {
+    "journalist": "thesun",
+    "club": "liverpool",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "The Sun",
+    "titleKo": "Man City &#8216;ready to hijack Tottenham&#8217;s Cody Gakpo transfer&#8217; as Enzo Maresca&#8217;s men &#8216;begin talks&#8217; for Liverpool star",
+    "summaryKo": "MANCHESTER CITY have reportedly made a shock move to beat Tottenham to the signing of Liverpool winger Cody Gakpo. The Sky Blues got their Premier League season off to a winning start as they came from behind beat Bournemouth yesterday. But City boss Enzo Maresca, who was appoint",
+    "url": "https://www.thesun.co.uk/sport/40158050/man-city-ready-hijack-tottenham-transfer-cody-gakpo-liverpool/",
+    "publishedAt": "2026-08-24T16:58:23.000Z",
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2026/08/HB-OP-GAKPO.jpg"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "liverpool",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "Liverpool transfer problem getting harder to ignore – and Daniel Sturridge and Jamie Carragher agree",
+    "summaryKo": "The post-match talking point from Liverpool's 2-2 draw with Newcastle United at St James' Park as Paul Gorst assesses if Liverpool really need a more defensive-minded midfielder",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-problem-getting-harder-34510263",
+    "publishedAt": "2026-08-24T16:58:00.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34510527.ece/ALTERNATES/s1200d/0_premium-canvas-1787585112640.png"
+  },
+  {
+    "journalist": "liverpoolecho",
+    "club": "newcastle",
+    "date": "2026-08-24",
+    "sourceType": "article",
+    "outlet": "Liverpool Echo",
+    "titleKo": "Liverpool transfer problem getting harder to ignore – and Daniel Sturridge and Jamie Carragher agree",
+    "summaryKo": "The post-match talking point from Liverpool's 2-2 draw with Newcastle United at St James' Park as Paul Gorst assesses if Liverpool really need a more defensive-minded midfielder",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-problem-getting-harder-34510263",
+    "publishedAt": "2026-08-24T16:58:00.000Z",
+    "imageUrl": "https://i2-prod.liverpoolecho.co.uk/article34510527.ece/ALTERNATES/s1200d/0_premium-canvas-1787585112640.png"
   }
 ]
